@@ -1,44 +1,82 @@
+/* General styles for the body */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center; /* Centers content horizontally */
+  justify-content: flex-start; /* Adjust vertical alignment if needed */
+  min-height: 100vh; /* Ensures full viewport height */
+  background-color: #f4f4f4; /* Optional: Background color for better visuals */
 }
+
+/* Title styles */
 h1 {
   margin: 20px;
+  text-align: center; /* Ensures the title is centered */
+  font-size: 32px;
+  color: #333;
 }
-.playlist {
-  width: 80%;
+
+/* Playlist container to center playlists and content */
+#playlistsContainer {
+  display: flex;
+  flex-direction: column; /* Stack playlists vertically */
+  align-items: center; /* Centers playlists horizontally */
+  width: 90%;
   max-width: 1200px;
-  margin: 20px 0;
+  margin: 0 auto; /* Centers container in the viewport */
+  padding: 20px;
 }
+
+/* Individual playlist styles */
+.playlist {
+  width: 100%; /* Take full width of the container */
+  margin-bottom: 30px; /* Add spacing between playlists */
+  background: #fff; /* Optional: Background for playlists */
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+/* Playlist title */
 .playlist-title {
-  margin: 20px 0;
-  text-align: center;
+  margin-bottom: 20px;
+  text-align: center; /* Centers playlist titles */
   font-size: 24px;
+  font-weight: bold;
+  color: #444;
 }
+
+/* Progress bar container and bar styles */
 .progress-bar-container {
   width: 80%;
   max-width: 600px;
-  margin: 0 auto 10px auto;
+  height: 20px;
+  margin: 10px auto; /* Center the progress bar */
   background-color: #eee;
   border-radius: 20px;
-  height: 20px;
+  overflow: hidden; /* Ensures progress bar is clipped inside */
 }
+
 .progress-bar {
   height: 100%;
   background-color: #007bff;
   border-radius: 20px;
-  transition: width 0.3s ease-in-out;
+  transition: width 0.3s ease-in-out; /* Smooth transition for progress updates */
 }
+
+/* Video container to center videos in a row */
 .video-container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
+  flex-wrap: wrap; /* Wrap videos to the next row if necessary */
+  justify-content: center; /* Center video cards in each row */
+  gap: 20px; /* Space between video cards */
+  margin-top: 20px;
 }
+
+/* Video card styles */
 .video-card {
   border: 1px solid #ccc;
   border-radius: 8px;
@@ -48,17 +86,22 @@ h1 {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s;
 }
+
 .video-card:hover {
-  transform: scale(1.05);
+  transform: scale(1.05); /* Slight zoom effect on hover */
 }
+
 .video-card img {
   border-radius: 8px 8px 0 0;
   width: 100%;
 }
+
 .video-card h3 {
   font-size: 16px;
   margin: 10px 5px;
+  color: #333;
 }
+
 .video-card a {
   display: inline-block;
   margin: 10px;
@@ -69,6 +112,7 @@ h1 {
   border-radius: 4px;
   transition: background-color 0.2s;
 }
+
 .video-card a:hover {
   background-color: #0056b3;
 }
