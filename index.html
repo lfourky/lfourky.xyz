@@ -1,349 +1,384 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Crash Course Chemistry Playlist</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    h1 {
-      margin: 20px;
-    }
-    .video-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-      padding: 20px;
-    }
-    .video-card {
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      text-align: center;
-      width: 200px;
-      background-color: #f9f9f9;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      transition: transform 0.2s;
-    }
-    .video-card:hover {
-      transform: scale(1.05);
-    }
-    .video-card img {
-      border-radius: 8px 8px 0 0;
-      width: 100%;
-    }
-    .video-card h3 {
-      font-size: 16px;
-      margin: 10px 5px;
-    }
-    .video-card a {
-      display: inline-block;
-      margin: 10px;
-      padding: 10px 15px;
-      text-decoration: none;
-      background-color: #007BFF;
-      color: white;
-      border-radius: 4px;
-      transition: background-color 0.2s;
-    }
-    .video-card a:hover {
-      background-color: #0056b3;
-    }
-  </style>
-</head>
-<body>
-  <h1>Crash Course Chemistry Playlist</h1>
-  <div class="video-container">
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/uVFCOfSuPTo/hqdefault.jpg" alt="Crash Course Chemistry Preview!">
-      <h3>Crash Course Chemistry Preview!</h3>
-      <a href="https://www.youtube.com/watch?v=uVFCOfSuPTo" target="_blank">Watch Video</a>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Academic Endeavors</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      h1 {
+        margin: 20px;
+      }
+      .progress-bar-container {
+        width: 80%;
+        max-width: 600px;
+        margin: 20px auto;
+        text-align: center;
+      }
+      .progress-bar {
+        background-color: #e0e0e0;
+        border-radius: 10px;
+        overflow: hidden;
+        width: 100%;
+        height: 20px;
+        margin: 10px 0;
+        position: relative;
+      }
+      .progress-bar-fill {
+        background-color: #007BFF;
+        height: 100%;
+        width: 0%;
+        transition: width 0.3s ease-in-out;
+      }
+      .progress-bar-container p {
+        margin: 0;
+        font-size: 14px;
+        color: #333;
+      }
+      .video-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+      }
+      .video-card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        text-align: center;
+        width: 200px;
+        background-color: #f9f9f9;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s;
+      }
+      .video-card:hover {
+        transform: scale(1.05);
+      }
+      .video-card img {
+        border-radius: 8px 8px 0 0;
+        width: 100%;
+      }
+      .video-card h3 {
+        font-size: 16px;
+        margin: 10px 5px;
+      }
+      .video-card a {
+        display: inline-block;
+        margin: 10px;
+        padding: 10px 15px;
+        text-decoration: none;
+        background-color: #007BFF;
+        color: white;
+        border-radius: 4px;
+        transition: background-color 0.2s;
+      }
+      .video-card a:hover {
+        background-color: #0056b3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Crash Course Chemistry Playlist</h1>
+    <div class="progress-bar-container">
+      <div class="progress-bar">
+        <div class="progress-bar-fill"></div>
+      </div>
+      <p>
+        Watched 0 of 47 videos
+        (0%)
+      </p>
     </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/FSyAehMdpyI/hqdefault.jpg" alt="The Nucleus: Crash Course Chemistry #1">
-      <h3>The Nucleus: Crash Course Chemistry #1</h3>
-      <a href="https://www.youtube.com/watch?v=FSyAehMdpyI" target="_blank">Watch Video</a>
+    <div class="video-container">
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/uVFCOfSuPTo/hqdefault.jpg" alt="Crash Course Chemistry Preview!" />
+        <h3>Crash Course Chemistry Preview!</h3>
+        <a href="https://www.youtube.com/watch?v=uVFCOfSuPTo" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/FSyAehMdpyI/hqdefault.jpg" alt="The Nucleus: Crash Course Chemistry #1" />
+        <h3>The Nucleus: Crash Course Chemistry #1</h3>
+        <a href="https://www.youtube.com/watch?v=FSyAehMdpyI" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/hQpQ0hxVNTg/hqdefault.jpg" alt="Unit Conversion &amp; Significant Figures: Crash Course Chemistry #2" />
+        <h3>Unit Conversion &amp; Significant Figures: Crash Course Chemistry #2</h3>
+        <a href="https://www.youtube.com/watch?v=hQpQ0hxVNTg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/QiiyvzZBKT8/hqdefault.jpg" alt="The Creation of Chemistry - The Fundamental Laws: Crash Course Chemistry #3" />
+        <h3>The Creation of Chemistry - The Fundamental Laws: Crash Course Chemistry #3</h3>
+        <a href="https://www.youtube.com/watch?v=QiiyvzZBKT8" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/0RRVV4Diomg/hqdefault.jpg" alt="The Periodic Table: Crash Course Chemistry #4" />
+        <h3>The Periodic Table: Crash Course Chemistry #4</h3>
+        <a href="https://www.youtube.com/watch?v=0RRVV4Diomg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/rcKilE9CdaA/hqdefault.jpg" alt="The Electron: Crash Course Chemistry #5" />
+        <h3>The Electron: Crash Course Chemistry #5</h3>
+        <a href="https://www.youtube.com/watch?v=rcKilE9CdaA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/UL1jmJaUkaQ/hqdefault.jpg" alt="Stoichiometry - Chemistry for Massive Creatures: Crash Course Chemistry #6" />
+        <h3>Stoichiometry - Chemistry for Massive Creatures: Crash Course Chemistry #6</h3>
+        <a href="https://www.youtube.com/watch?v=UL1jmJaUkaQ" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/AN4KifV12DA/hqdefault.jpg" alt="Water &amp; Solutions - for Dirty Laundry: Crash Course Chemistry #7" />
+        <h3>Water &amp; Solutions - for Dirty Laundry: Crash Course Chemistry #7</h3>
+        <a href="https://www.youtube.com/watch?v=AN4KifV12DA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/ANi709MYnWg/hqdefault.jpg" alt="Acid-Base Reactions in Solution: Crash Course Chemistry #8" />
+        <h3>Acid-Base Reactions in Solution: Crash Course Chemistry #8</h3>
+        <a href="https://www.youtube.com/watch?v=ANi709MYnWg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/IIu16dy3ThI/hqdefault.jpg" alt="Precipitation Reactions: Crash Course Chemistry #9" />
+        <h3>Precipitation Reactions: Crash Course Chemistry #9</h3>
+        <a href="https://www.youtube.com/watch?v=IIu16dy3ThI" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/lQ6FBA1HM3s/hqdefault.jpg" alt="Redox Reactions: Crash Course Chemistry #10" />
+        <h3>Redox Reactions: Crash Course Chemistry #10</h3>
+        <a href="https://www.youtube.com/watch?v=lQ6FBA1HM3s" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/mlRhLicNo8Q/hqdefault.jpg" alt="How to Speak Chemistrian: Crash Course Chemistry #11" />
+        <h3>How to Speak Chemistrian: Crash Course Chemistry #11</h3>
+        <a href="https://www.youtube.com/watch?v=mlRhLicNo8Q" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/BxUS1K7xu30/hqdefault.jpg" alt="The Ideal Gas Law: Crash Course Chemistry #12" />
+        <h3>The Ideal Gas Law: Crash Course Chemistry #12</h3>
+        <a href="https://www.youtube.com/watch?v=BxUS1K7xu30" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/8SRAkXMu3d0/hqdefault.jpg" alt="Ideal Gas Problems: Crash Course Chemistry #13" />
+        <h3>Ideal Gas Problems: Crash Course Chemistry #13</h3>
+        <a href="https://www.youtube.com/watch?v=8SRAkXMu3d0" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/GIPrsWuSkQc/hqdefault.jpg" alt="Real Gases: Crash Course Chemistry #14" />
+        <h3>Real Gases: Crash Course Chemistry #14</h3>
+        <a href="https://www.youtube.com/watch?v=GIPrsWuSkQc" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/JbqtqCunYzA/hqdefault.jpg" alt="Partial Pressures &amp; Vapor Pressure: Crash Course Chemistry #15" />
+        <h3>Partial Pressures &amp; Vapor Pressure: Crash Course Chemistry #15</h3>
+        <a href="https://www.youtube.com/watch?v=JbqtqCunYzA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/TLRZAFU_9Kg/hqdefault.jpg" alt="Passing Gases: Effusion, Diffusion, and the Velocity of a Gas - Crash Course Chemistry #16" />
+        <h3>Passing Gases: Effusion, Diffusion, and the Velocity of a Gas - Crash Course Chemistry #16</h3>
+        <a href="https://www.youtube.com/watch?v=TLRZAFU_9Kg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/GqtUWyDR1fg/hqdefault.jpg" alt="Energy &amp; Chemistry: Crash Course Chemistry #17" />
+        <h3>Energy &amp; Chemistry: Crash Course Chemistry #17</h3>
+        <a href="https://www.youtube.com/watch?v=GqtUWyDR1fg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/SV7U4yAXL5I/hqdefault.jpg" alt="Enthalpy: Crash Course Chemistry #18" />
+        <h3>Enthalpy: Crash Course Chemistry #18</h3>
+        <a href="https://www.youtube.com/watch?v=SV7U4yAXL5I" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/JuWtBR-rDQk/hqdefault.jpg" alt="Calorimetry: Crash Course Chemistry #19" />
+        <h3>Calorimetry: Crash Course Chemistry #19</h3>
+        <a href="https://www.youtube.com/watch?v=JuWtBR-rDQk" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/ZsY4WcQOrfk/hqdefault.jpg" alt="Entropy: Embrace the Chaos! Crash Course Chemistry #20" />
+        <h3>Entropy: Embrace the Chaos! Crash Course Chemistry #20</h3>
+        <a href="https://www.youtube.com/watch?v=ZsY4WcQOrfk" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/VRWRmIEHr3A/hqdefault.jpg" alt="Lab Techniques &amp; Safety: Crash Course Chemistry #21" />
+        <h3>Lab Techniques &amp; Safety: Crash Course Chemistry #21</h3>
+        <a href="https://www.youtube.com/watch?v=VRWRmIEHr3A" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/QXT4OVM4vXI/hqdefault.jpg" alt="Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22" />
+        <h3>Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22</h3>
+        <a href="https://www.youtube.com/watch?v=QXT4OVM4vXI" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/PVL24HAesnc/hqdefault.jpg" alt="Polar &amp; Non-Polar Molecules: Crash Course Chemistry #23" />
+        <h3>Polar &amp; Non-Polar Molecules: Crash Course Chemistry #23</h3>
+        <a href="https://www.youtube.com/watch?v=PVL24HAesnc" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/a8LF7JEb0IA/hqdefault.jpg" alt="Bonding Models and Lewis Structures: Crash Course Chemistry #24" />
+        <h3>Bonding Models and Lewis Structures: Crash Course Chemistry #24</h3>
+        <a href="https://www.youtube.com/watch?v=a8LF7JEb0IA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/cPDptc0wUYI/hqdefault.jpg" alt="Orbitals: Crash Course Chemistry #25" />
+        <h3>Orbitals: Crash Course Chemistry #25</h3>
+        <a href="https://www.youtube.com/watch?v=cPDptc0wUYI" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/BqQJPCdmIp8/hqdefault.jpg" alt="Liquids: Crash Course Chemistry #26" />
+        <h3>Liquids: Crash Course Chemistry #26</h3>
+        <a href="https://www.youtube.com/watch?v=BqQJPCdmIp8" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/9h2f1Bjr0p4/hqdefault.jpg" alt="Solutions: Crash Course Chemistry #27" />
+        <h3>Solutions: Crash Course Chemistry #27</h3>
+        <a href="https://www.youtube.com/watch?v=9h2f1Bjr0p4" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/g5wNg_dKsYY/hqdefault.jpg" alt="Equilibrium: Crash Course Chemistry #28" />
+        <h3>Equilibrium: Crash Course Chemistry #28</h3>
+        <a href="https://www.youtube.com/watch?v=g5wNg_dKsYY" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/DP-vWN1yXrY/hqdefault.jpg" alt="Equilibrium Equations: Crash Course Chemistry #29" />
+        <h3>Equilibrium Equations: Crash Course Chemistry #29</h3>
+        <a href="https://www.youtube.com/watch?v=DP-vWN1yXrY" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/LS67vS10O5Y/hqdefault.jpg" alt="pH and pOH: Crash Course Chemistry #30" />
+        <h3>pH and pOH: Crash Course Chemistry #30</h3>
+        <a href="https://www.youtube.com/watch?v=LS67vS10O5Y" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/8Fdt5WnYn1k/hqdefault.jpg" alt="Buffers, the Acid Rain Slayer: Crash Course Chemistry #31" />
+        <h3>Buffers, the Acid Rain Slayer: Crash Course Chemistry #31</h3>
+        <a href="https://www.youtube.com/watch?v=8Fdt5WnYn1k" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/7qOFtL3VEBc/hqdefault.jpg" alt="Kinetics: Chemistry&#39;s Demolition Derby - Crash Course Chemistry #32" />
+        <h3>Kinetics: Chemistry&#39;s Demolition Derby - Crash Course Chemistry #32</h3>
+        <a href="https://www.youtube.com/watch?v=7qOFtL3VEBc" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/bzr-byiSXlA/hqdefault.jpg" alt="Doing Solids: Crash Course Chemistry #33" />
+        <h3>Doing Solids: Crash Course Chemistry #33</h3>
+        <a href="https://www.youtube.com/watch?v=bzr-byiSXlA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/b_SXwfHQ774/hqdefault.jpg" alt="Network Solids and Carbon: Crash Course Chemistry #34" />
+        <h3>Network Solids and Carbon: Crash Course Chemistry #34</h3>
+        <a href="https://www.youtube.com/watch?v=b_SXwfHQ774" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/kdy3RsZk7As/hqdefault.jpg" alt="Silicon - The Internet&#39;s Favorite Element: Crash Course Chemistry #35" />
+        <h3>Silicon - The Internet&#39;s Favorite Element: Crash Course Chemistry #35</h3>
+        <a href="https://www.youtube.com/watch?v=kdy3RsZk7As" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/IV4IUsholjg/hqdefault.jpg" alt="Electrochemistry: Crash Course Chemistry #36" />
+        <h3>Electrochemistry: Crash Course Chemistry #36</h3>
+        <a href="https://www.youtube.com/watch?v=IV4IUsholjg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/thnDxFdkzZs/hqdefault.jpg" alt="The History of Atomic Chemistry: Crash Course Chemistry #37" />
+        <h3>The History of Atomic Chemistry: Crash Course Chemistry #37</h3>
+        <a href="https://www.youtube.com/watch?v=thnDxFdkzZs" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/KWAsz59F8gA/hqdefault.jpg" alt="Nuclear Chemistry: Crash Course Chemistry #38" />
+        <h3>Nuclear Chemistry: Crash Course Chemistry #38</h3>
+        <a href="https://www.youtube.com/watch?v=KWAsz59F8gA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/FU6y1XIADdg/hqdefault.jpg" alt="Nuclear Chemistry Part 2 - Fusion and Fission: Crash Course Chemistry #39" />
+        <h3>Nuclear Chemistry Part 2 - Fusion and Fission: Crash Course Chemistry #39</h3>
+        <a href="https://www.youtube.com/watch?v=FU6y1XIADdg" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/UloIw7dhnlQ/hqdefault.jpg" alt="Hydrocarbon Power!: Crash Course Chemistry #40" />
+        <h3>Hydrocarbon Power!: Crash Course Chemistry #40</h3>
+        <a href="https://www.youtube.com/watch?v=UloIw7dhnlQ" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/CEH3O6l1pbw/hqdefault.jpg" alt="Alkenes &amp; Alkynes: Crash Course Chemistry #41" />
+        <h3>Alkenes &amp; Alkynes: Crash Course Chemistry #41</h3>
+        <a href="https://www.youtube.com/watch?v=CEH3O6l1pbw" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/kXFEex-dABU/hqdefault.jpg" alt="Aromatics &amp; Cyclic Compounds: Crash Course Chemistry #42" />
+        <h3>Aromatics &amp; Cyclic Compounds: Crash Course Chemistry #42</h3>
+        <a href="https://www.youtube.com/watch?v=kXFEex-dABU" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/hlXc_eEtBHA/hqdefault.jpg" alt="Hydrocarbon Derivatives: Crash Course Chemistry #43" />
+        <h3>Hydrocarbon Derivatives: Crash Course Chemistry #43</h3>
+        <a href="https://www.youtube.com/watch?v=hlXc_eEtBHA" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/U7wavimfNFE/hqdefault.jpg" alt="Nomenclature: Crash Course Chemistry #44" />
+        <h3>Nomenclature: Crash Course Chemistry #44</h3>
+        <a href="https://www.youtube.com/watch?v=U7wavimfNFE" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/rHxxLYzJ8Sw/hqdefault.jpg" alt="Polymers: Crash Course Chemistry #45" />
+        <h3>Polymers: Crash Course Chemistry #45</h3>
+        <a href="https://www.youtube.com/watch?v=rHxxLYzJ8Sw" target="_blank">Watch Video</a>
+      </div>
+      
+      <div class="video-card">
+        <img src="https://i.ytimg.com/vi/aLuSi_6Ol8M/hqdefault.jpg" alt="The Global Carbon Cycle: Crash Course Chemistry #46" />
+        <h3>The Global Carbon Cycle: Crash Course Chemistry #46</h3>
+        <a href="https://www.youtube.com/watch?v=aLuSi_6Ol8M" target="_blank">Watch Video</a>
+      </div>
+      
     </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/hQpQ0hxVNTg/hqdefault.jpg" alt="Unit Conversion &amp; Significant Figures: Crash Course Chemistry #2">
-      <h3>Unit Conversion &amp; Significant Figures: Crash Course Chemistry #2</h3>
-      <a href="https://www.youtube.com/watch?v=hQpQ0hxVNTg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/QiiyvzZBKT8/hqdefault.jpg" alt="The Creation of Chemistry - The Fundamental Laws: Crash Course Chemistry #3">
-      <h3>The Creation of Chemistry - The Fundamental Laws: Crash Course Chemistry #3</h3>
-      <a href="https://www.youtube.com/watch?v=QiiyvzZBKT8" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/0RRVV4Diomg/hqdefault.jpg" alt="The Periodic Table: Crash Course Chemistry #4">
-      <h3>The Periodic Table: Crash Course Chemistry #4</h3>
-      <a href="https://www.youtube.com/watch?v=0RRVV4Diomg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/rcKilE9CdaA/hqdefault.jpg" alt="The Electron: Crash Course Chemistry #5">
-      <h3>The Electron: Crash Course Chemistry #5</h3>
-      <a href="https://www.youtube.com/watch?v=rcKilE9CdaA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/UL1jmJaUkaQ/hqdefault.jpg" alt="Stoichiometry - Chemistry for Massive Creatures: Crash Course Chemistry #6">
-      <h3>Stoichiometry - Chemistry for Massive Creatures: Crash Course Chemistry #6</h3>
-      <a href="https://www.youtube.com/watch?v=UL1jmJaUkaQ" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/AN4KifV12DA/hqdefault.jpg" alt="Water &amp; Solutions - for Dirty Laundry: Crash Course Chemistry #7">
-      <h3>Water &amp; Solutions - for Dirty Laundry: Crash Course Chemistry #7</h3>
-      <a href="https://www.youtube.com/watch?v=AN4KifV12DA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/ANi709MYnWg/hqdefault.jpg" alt="Acid-Base Reactions in Solution: Crash Course Chemistry #8">
-      <h3>Acid-Base Reactions in Solution: Crash Course Chemistry #8</h3>
-      <a href="https://www.youtube.com/watch?v=ANi709MYnWg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/IIu16dy3ThI/hqdefault.jpg" alt="Precipitation Reactions: Crash Course Chemistry #9">
-      <h3>Precipitation Reactions: Crash Course Chemistry #9</h3>
-      <a href="https://www.youtube.com/watch?v=IIu16dy3ThI" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/lQ6FBA1HM3s/hqdefault.jpg" alt="Redox Reactions: Crash Course Chemistry #10">
-      <h3>Redox Reactions: Crash Course Chemistry #10</h3>
-      <a href="https://www.youtube.com/watch?v=lQ6FBA1HM3s" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/mlRhLicNo8Q/hqdefault.jpg" alt="How to Speak Chemistrian: Crash Course Chemistry #11">
-      <h3>How to Speak Chemistrian: Crash Course Chemistry #11</h3>
-      <a href="https://www.youtube.com/watch?v=mlRhLicNo8Q" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/BxUS1K7xu30/hqdefault.jpg" alt="The Ideal Gas Law: Crash Course Chemistry #12">
-      <h3>The Ideal Gas Law: Crash Course Chemistry #12</h3>
-      <a href="https://www.youtube.com/watch?v=BxUS1K7xu30" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/8SRAkXMu3d0/hqdefault.jpg" alt="Ideal Gas Problems: Crash Course Chemistry #13">
-      <h3>Ideal Gas Problems: Crash Course Chemistry #13</h3>
-      <a href="https://www.youtube.com/watch?v=8SRAkXMu3d0" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/GIPrsWuSkQc/hqdefault.jpg" alt="Real Gases: Crash Course Chemistry #14">
-      <h3>Real Gases: Crash Course Chemistry #14</h3>
-      <a href="https://www.youtube.com/watch?v=GIPrsWuSkQc" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/JbqtqCunYzA/hqdefault.jpg" alt="Partial Pressures &amp; Vapor Pressure: Crash Course Chemistry #15">
-      <h3>Partial Pressures &amp; Vapor Pressure: Crash Course Chemistry #15</h3>
-      <a href="https://www.youtube.com/watch?v=JbqtqCunYzA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/TLRZAFU_9Kg/hqdefault.jpg" alt="Passing Gases: Effusion, Diffusion, and the Velocity of a Gas - Crash Course Chemistry #16">
-      <h3>Passing Gases: Effusion, Diffusion, and the Velocity of a Gas - Crash Course Chemistry #16</h3>
-      <a href="https://www.youtube.com/watch?v=TLRZAFU_9Kg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/GqtUWyDR1fg/hqdefault.jpg" alt="Energy &amp; Chemistry: Crash Course Chemistry #17">
-      <h3>Energy &amp; Chemistry: Crash Course Chemistry #17</h3>
-      <a href="https://www.youtube.com/watch?v=GqtUWyDR1fg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/SV7U4yAXL5I/hqdefault.jpg" alt="Enthalpy: Crash Course Chemistry #18">
-      <h3>Enthalpy: Crash Course Chemistry #18</h3>
-      <a href="https://www.youtube.com/watch?v=SV7U4yAXL5I" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/JuWtBR-rDQk/hqdefault.jpg" alt="Calorimetry: Crash Course Chemistry #19">
-      <h3>Calorimetry: Crash Course Chemistry #19</h3>
-      <a href="https://www.youtube.com/watch?v=JuWtBR-rDQk" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/ZsY4WcQOrfk/hqdefault.jpg" alt="Entropy: Embrace the Chaos! Crash Course Chemistry #20">
-      <h3>Entropy: Embrace the Chaos! Crash Course Chemistry #20</h3>
-      <a href="https://www.youtube.com/watch?v=ZsY4WcQOrfk" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/VRWRmIEHr3A/hqdefault.jpg" alt="Lab Techniques &amp; Safety: Crash Course Chemistry #21">
-      <h3>Lab Techniques &amp; Safety: Crash Course Chemistry #21</h3>
-      <a href="https://www.youtube.com/watch?v=VRWRmIEHr3A" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/QXT4OVM4vXI/hqdefault.jpg" alt="Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22">
-      <h3>Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22</h3>
-      <a href="https://www.youtube.com/watch?v=QXT4OVM4vXI" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/PVL24HAesnc/hqdefault.jpg" alt="Polar &amp; Non-Polar Molecules: Crash Course Chemistry #23">
-      <h3>Polar &amp; Non-Polar Molecules: Crash Course Chemistry #23</h3>
-      <a href="https://www.youtube.com/watch?v=PVL24HAesnc" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/a8LF7JEb0IA/hqdefault.jpg" alt="Bonding Models and Lewis Structures: Crash Course Chemistry #24">
-      <h3>Bonding Models and Lewis Structures: Crash Course Chemistry #24</h3>
-      <a href="https://www.youtube.com/watch?v=a8LF7JEb0IA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/cPDptc0wUYI/hqdefault.jpg" alt="Orbitals: Crash Course Chemistry #25">
-      <h3>Orbitals: Crash Course Chemistry #25</h3>
-      <a href="https://www.youtube.com/watch?v=cPDptc0wUYI" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/BqQJPCdmIp8/hqdefault.jpg" alt="Liquids: Crash Course Chemistry #26">
-      <h3>Liquids: Crash Course Chemistry #26</h3>
-      <a href="https://www.youtube.com/watch?v=BqQJPCdmIp8" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/9h2f1Bjr0p4/hqdefault.jpg" alt="Solutions: Crash Course Chemistry #27">
-      <h3>Solutions: Crash Course Chemistry #27</h3>
-      <a href="https://www.youtube.com/watch?v=9h2f1Bjr0p4" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/g5wNg_dKsYY/hqdefault.jpg" alt="Equilibrium: Crash Course Chemistry #28">
-      <h3>Equilibrium: Crash Course Chemistry #28</h3>
-      <a href="https://www.youtube.com/watch?v=g5wNg_dKsYY" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/DP-vWN1yXrY/hqdefault.jpg" alt="Equilibrium Equations: Crash Course Chemistry #29">
-      <h3>Equilibrium Equations: Crash Course Chemistry #29</h3>
-      <a href="https://www.youtube.com/watch?v=DP-vWN1yXrY" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/LS67vS10O5Y/hqdefault.jpg" alt="pH and pOH: Crash Course Chemistry #30">
-      <h3>pH and pOH: Crash Course Chemistry #30</h3>
-      <a href="https://www.youtube.com/watch?v=LS67vS10O5Y" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/8Fdt5WnYn1k/hqdefault.jpg" alt="Buffers, the Acid Rain Slayer: Crash Course Chemistry #31">
-      <h3>Buffers, the Acid Rain Slayer: Crash Course Chemistry #31</h3>
-      <a href="https://www.youtube.com/watch?v=8Fdt5WnYn1k" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/7qOFtL3VEBc/hqdefault.jpg" alt="Kinetics: Chemistry&#39;s Demolition Derby - Crash Course Chemistry #32">
-      <h3>Kinetics: Chemistry&#39;s Demolition Derby - Crash Course Chemistry #32</h3>
-      <a href="https://www.youtube.com/watch?v=7qOFtL3VEBc" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/bzr-byiSXlA/hqdefault.jpg" alt="Doing Solids: Crash Course Chemistry #33">
-      <h3>Doing Solids: Crash Course Chemistry #33</h3>
-      <a href="https://www.youtube.com/watch?v=bzr-byiSXlA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/b_SXwfHQ774/hqdefault.jpg" alt="Network Solids and Carbon: Crash Course Chemistry #34">
-      <h3>Network Solids and Carbon: Crash Course Chemistry #34</h3>
-      <a href="https://www.youtube.com/watch?v=b_SXwfHQ774" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/kdy3RsZk7As/hqdefault.jpg" alt="Silicon - The Internet&#39;s Favorite Element: Crash Course Chemistry #35">
-      <h3>Silicon - The Internet&#39;s Favorite Element: Crash Course Chemistry #35</h3>
-      <a href="https://www.youtube.com/watch?v=kdy3RsZk7As" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/IV4IUsholjg/hqdefault.jpg" alt="Electrochemistry: Crash Course Chemistry #36">
-      <h3>Electrochemistry: Crash Course Chemistry #36</h3>
-      <a href="https://www.youtube.com/watch?v=IV4IUsholjg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/thnDxFdkzZs/hqdefault.jpg" alt="The History of Atomic Chemistry: Crash Course Chemistry #37">
-      <h3>The History of Atomic Chemistry: Crash Course Chemistry #37</h3>
-      <a href="https://www.youtube.com/watch?v=thnDxFdkzZs" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/KWAsz59F8gA/hqdefault.jpg" alt="Nuclear Chemistry: Crash Course Chemistry #38">
-      <h3>Nuclear Chemistry: Crash Course Chemistry #38</h3>
-      <a href="https://www.youtube.com/watch?v=KWAsz59F8gA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/FU6y1XIADdg/hqdefault.jpg" alt="Nuclear Chemistry Part 2 - Fusion and Fission: Crash Course Chemistry #39">
-      <h3>Nuclear Chemistry Part 2 - Fusion and Fission: Crash Course Chemistry #39</h3>
-      <a href="https://www.youtube.com/watch?v=FU6y1XIADdg" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/UloIw7dhnlQ/hqdefault.jpg" alt="Hydrocarbon Power!: Crash Course Chemistry #40">
-      <h3>Hydrocarbon Power!: Crash Course Chemistry #40</h3>
-      <a href="https://www.youtube.com/watch?v=UloIw7dhnlQ" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/CEH3O6l1pbw/hqdefault.jpg" alt="Alkenes &amp; Alkynes: Crash Course Chemistry #41">
-      <h3>Alkenes &amp; Alkynes: Crash Course Chemistry #41</h3>
-      <a href="https://www.youtube.com/watch?v=CEH3O6l1pbw" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/kXFEex-dABU/hqdefault.jpg" alt="Aromatics &amp; Cyclic Compounds: Crash Course Chemistry #42">
-      <h3>Aromatics &amp; Cyclic Compounds: Crash Course Chemistry #42</h3>
-      <a href="https://www.youtube.com/watch?v=kXFEex-dABU" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/hlXc_eEtBHA/hqdefault.jpg" alt="Hydrocarbon Derivatives: Crash Course Chemistry #43">
-      <h3>Hydrocarbon Derivatives: Crash Course Chemistry #43</h3>
-      <a href="https://www.youtube.com/watch?v=hlXc_eEtBHA" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/U7wavimfNFE/hqdefault.jpg" alt="Nomenclature: Crash Course Chemistry #44">
-      <h3>Nomenclature: Crash Course Chemistry #44</h3>
-      <a href="https://www.youtube.com/watch?v=U7wavimfNFE" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/rHxxLYzJ8Sw/hqdefault.jpg" alt="Polymers: Crash Course Chemistry #45">
-      <h3>Polymers: Crash Course Chemistry #45</h3>
-      <a href="https://www.youtube.com/watch?v=rHxxLYzJ8Sw" target="_blank">Watch Video</a>
-    </div>
-    
-    <div class="video-card">
-      <img src="https://i.ytimg.com/vi/aLuSi_6Ol8M/hqdefault.jpg" alt="The Global Carbon Cycle: Crash Course Chemistry #46">
-      <h3>The Global Carbon Cycle: Crash Course Chemistry #46</h3>
-      <a href="https://www.youtube.com/watch?v=aLuSi_6Ol8M" target="_blank">Watch Video</a>
-    </div>
-    
-  </div>
-</body>
+  </body>
 </html>
