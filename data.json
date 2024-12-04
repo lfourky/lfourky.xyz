@@ -16,6 +16,22 @@
       "url": "https://www.amazon.com/Biology-Essentials-Dummies-Fester-Kratz/dp/1119589584",
       "thumbnail": "https://m.media-amazon.com/images/I/81fWA8saI9L._SL1500_.jpg",
       "description": "An easy-to-read overview of biology concepts perfect for quick reference."
+    },
+    {
+      "id": 3,
+      "title": "Chemistry For Dummies",
+      "author": "John T. Moore",
+      "url": "https://www.amazon.com/Chemistry-Dummies-Math-Science/dp/B003156A1Y",
+      "thumbnail": "https://m.media-amazon.com/images/I/71t45KMxtRL._SL1388_.jpg",
+      "description": "A comprehensive guide to chemistry concepts and principles for beginners."
+    },
+    {
+      "id": 4,
+      "title": "Anatomy & Physiology For Dummies",
+      "author": "Erin Odya",
+      "url": "Anatomy & Physiology For Dummies",
+      "thumbnail": "https://m.media-amazon.com/images/I/81fjjaiB0DS._SL1500_.jpg",
+      "description": "A comprehensive guide to anatomy and physiology concepts for beginners."
     }
   ],
   "playlists": [

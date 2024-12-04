@@ -137,7 +137,6 @@ h1 {
   background-color: #0056b3;
 }
 
-
 /* Scroll buttons for left and right navigation */
 .scroll-btn {
   position: absolute;
@@ -163,10 +162,6 @@ h1 {
 .scroll-btn:hover {
   background-color: rgba(0, 0, 0, 0.7);
 }
-
-
-
-
 
 /* Books container */
 .books-container {
@@ -201,8 +196,8 @@ h1 {
 
 .book-card img {
   width: 100%;
-  height: auto;
-  object-fit: cover;
+  height: 450px; /* Set a fixed height for all book images */
+  object-fit: cover; /* Ensures the image scales while maintaining proportions */
   border-bottom: 1px solid #ccc;
 }
 
