@@ -1,118 +1,165 @@
-/* General styles for the body */
+/* General body styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centers content horizontally */
-  justify-content: flex-start; /* Adjust vertical alignment if needed */
-  min-height: 100vh; /* Ensures full viewport height */
-  background-color: #f4f4f4; /* Optional: Background color for better visuals */
+  align-items: center;
+  background-color: #f4f4f4;
+  min-height: 100vh;
 }
 
 /* Title styles */
 h1 {
   margin: 20px;
-  text-align: center; /* Ensures the title is centered */
+  text-align: center;
   font-size: 32px;
   color: #333;
 }
 
-/* Playlist container to center playlists and content */
+/* Playlists container */
 #playlistsContainer {
-  display: flex;
-  flex-direction: column; /* Stack playlists vertically */
-  align-items: center; /* Centers playlists horizontally */
   width: 90%;
   max-width: 1200px;
-  margin: 0 auto; /* Centers container in the viewport */
-  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px; /* Space between playlists */
+  margin: 20px 0;
 }
 
-/* Individual playlist styles */
+/* Individual playlist container */
 .playlist {
-  width: 100%; /* Take full width of the container */
-  margin-bottom: 30px; /* Add spacing between playlists */
-  background: #fff; /* Optional: Background for playlists */
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  padding: 20px;
+  width: 100%;
 }
 
 /* Playlist title */
 .playlist-title {
-  margin-bottom: 20px;
-  text-align: center; /* Centers playlist titles */
+  margin: 10px 0;
   font-size: 24px;
   font-weight: bold;
+  text-align: center;
   color: #444;
 }
 
-/* Progress bar container and bar styles */
+/* Progress bar container and bar */
 .progress-bar-container {
-  width: 80%;
-  max-width: 600px;
+  width: 90%;
+  max-width: 800px;
   height: 20px;
-  margin: 10px auto; /* Center the progress bar */
+  margin: 10px auto;
   background-color: #eee;
   border-radius: 20px;
-  overflow: hidden; /* Ensures progress bar is clipped inside */
+  overflow: hidden;
 }
 
 .progress-bar {
   height: 100%;
   background-color: #007bff;
   border-radius: 20px;
-  transition: width 0.3s ease-in-out; /* Smooth transition for progress updates */
+  transition: width 0.3s ease-in-out;
 }
 
-/* Video container to center videos in a row */
+/* Single-row scrollable video container */
 .video-container {
   display: flex;
-  flex-wrap: wrap; /* Wrap videos to the next row if necessary */
-  justify-content: center; /* Center video cards in each row */
+  overflow-x: auto; /* Enable horizontal scrolling */
   gap: 20px; /* Space between video cards */
-  margin-top: 20px;
+  padding: 10px 0;
+  scroll-behavior: smooth; /* Smooth scrolling */
+}
+
+.video-container::-webkit-scrollbar {
+  height: 8px; /* Horizontal scrollbar height */
+}
+
+.video-container::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.video-container::-webkit-scrollbar-track {
+  background: #f9f9f9;
 }
 
 /* Video card styles */
 .video-card {
+  display: flex; /* Make it a flex container */
+  flex-direction: column; /* Stack elements vertically */
+  justify-content: flex-start; /* Align items starting from the top */
+  align-items: center;
+  flex-shrink: 0; /* Prevent shrinking in the scrollable row */
+  width: 200px;
+  height: 320px; /* Ensure consistent height */
   border: 1px solid #ccc;
   border-radius: 8px;
   text-align: center;
-  width: 200px;
   background-color: #f9f9f9;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  transition: transform 0.2s;
-}
-
-.video-card:hover {
-  transform: scale(1.05); /* Slight zoom effect on hover */
+  transition: transform 0.2s ease-in-out;
+  padding: 10px; /* Ensure consistent padding inside the card */
 }
 
 .video-card img {
   border-radius: 8px 8px 0 0;
   width: 100%;
+  height: 150px; /* Set a consistent height for the image */
+  object-fit: cover; /* Avoid distortion */
 }
 
 .video-card h3 {
-  font-size: 16px;
-  margin: 10px 5px;
-  color: #333;
+  font-size: 14px;
+  margin: 10px 0;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* Limit to two lines */
+  -webkit-box-orient: vertical;
+  flex-grow: 1; /* Take up extra space to push the button down */
 }
 
 .video-card a {
-  display: inline-block;
-  margin: 10px;
-  padding: 10px 15px;
+  align-self: center; /* Center the button horizontally */
+  margin-top: auto; /* Push the button to the bottom */
+  margin-bottom: 10px; /* Add a small gap above the bottom edge */
+  padding: 8px 12px; /* Compact padding */
   text-decoration: none;
   background-color: #007bff;
   color: white;
   border-radius: 4px;
-  transition: background-color 0.2s;
+  font-size: 14px;
+  transition: background-color 0.2s ease-in-out;
 }
 
 .video-card a:hover {
   background-color: #0056b3;
+}
+
+
+/* Scroll buttons for left and right navigation */
+.scroll-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.scroll-btn.left {
+  left: -20px;
+}
+
+.scroll-btn.right {
+  right: -20px;
+}
+
+.scroll-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
 }
