@@ -32,6 +32,22 @@
       "url": "Anatomy & Physiology For Dummies",
       "thumbnail": "https://m.media-amazon.com/images/I/81fjjaiB0DS._SL1500_.jpg",
       "description": "A comprehensive guide to anatomy and physiology concepts for beginners."
+    },
+    {
+      "id": 5,
+      "title": "Organic Chemistry I For Dummies",
+      "author": "Arthur Winter",
+      "url": "https://www.amazon.com/Organic-Chemistry-Dummies-Lifestyle/dp/1119293375",
+      "thumbnail": "https://m.media-amazon.com/images/I/81TjzGlkdUL._SL1500_.jpg",
+      "description": "A beginner's guide to organic chemistry concepts and principles."
+    },
+    {
+      "id": 6,
+      "title": "Organic Chemistry II For Dummies",
+      "author": "John T. Moore",
+      "url": "https://www.amazon.com/Organic-Chemistry-Dummies-John-Moore/dp/111998517X/",
+      "thumbnail": "https://m.media-amazon.com/images/I/81ZYDWAy0CL._SL1500_.jpg",
+      "description": "A comprehensive guide to organic chemistry concepts and principles for beginners."
     }
   ],
   "playlists": [

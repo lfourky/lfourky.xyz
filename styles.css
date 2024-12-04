@@ -18,22 +18,96 @@ h1 {
   color: #333;
 }
 
-/* Playlists container */
-#playlistsContainer {
+/* Section styles */
+section {
   width: 90%;
   max-width: 1200px;
-  display: flex;
-  flex-direction: column;
-  gap: 40px; /* Space between playlists */
-  margin: 20px 0;
+  margin: 20px auto;
 }
 
-/* Individual playlist container */
+h2 {
+  font-size: 24px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+/* Horizontal scroll container (shared by books and playlists) */
+.horizontal-scroll-container {
+  display: flex;
+  overflow-x: auto; /* Enable horizontal scrolling */
+  gap: 20px; /* Space between cards */
+  padding: 10px 0;
+  scroll-behavior: smooth; /* Smooth scrolling */
+  max-width: 100%;
+}
+
+.horizontal-scroll-container::-webkit-scrollbar {
+  height: 8px; /* Horizontal scrollbar height */
+}
+
+.horizontal-scroll-container::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.horizontal-scroll-container::-webkit-scrollbar-track {
+  background: #f9f9f9;
+}
+
+/* Books container */
+.book-card {
+  flex-shrink: 0;
+  width: 300px; /* Fixed width for consistent layout */
+  height: 650px; /* Increased height to accommodate content properly */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.book-card img {
+  width: 100%;
+  height: 450px; /* Set height to 450px to display images properly */
+  object-fit: cover; /* Avoid image distortion */
+}
+
+.book-card h3 {
+  font-size: 18px;
+  margin: 10px 5px;
+  text-align: center;
+}
+
+.book-card p {
+  font-size: 14px;
+  margin: 5px 10px;
+  text-align: center;
+}
+
+.book-card a {
+  margin-top: auto;
+  margin-bottom: 10px;
+  text-decoration: none;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background-color 0.2s ease-in-out;
+  text-align: center;
+}
+
+.book-card a:hover {
+  background-color: #0056b3;
+}
+
+/* Playlist container */
 .playlist {
   width: 100%;
 }
 
-/* Playlist title */
 .playlist-title {
   margin: 10px 0;
   font-size: 24px;
@@ -42,7 +116,6 @@ h1 {
   color: #444;
 }
 
-/* Progress bar container and bar */
 .progress-bar-container {
   width: 90%;
   max-width: 800px;
@@ -60,7 +133,6 @@ h1 {
   transition: width 0.3s ease-in-out;
 }
 
-/* Single-row scrollable video container */
 .video-container {
   display: flex;
   overflow-x: auto; /* Enable horizontal scrolling */
@@ -82,13 +154,12 @@ h1 {
   background: #f9f9f9;
 }
 
-/* Video card styles */
 .video-card {
-  display: flex; /* Make it a flex container */
-  flex-direction: column; /* Stack elements vertically */
-  justify-content: flex-start; /* Align items starting from the top */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
   align-items: center;
-  flex-shrink: 0; /* Prevent shrinking in the scrollable row */
+  flex-shrink: 0;
   width: 200px;
   height: 320px; /* Ensure consistent height */
   border: 1px solid #ccc;
@@ -97,14 +168,14 @@ h1 {
   background-color: #f9f9f9;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease-in-out;
-  padding: 10px; /* Ensure consistent padding inside the card */
+  padding: 10px; /* Consistent padding */
 }
 
 .video-card img {
   border-radius: 8px 8px 0 0;
   width: 100%;
-  height: 150px; /* Set a consistent height for the image */
-  object-fit: cover; /* Avoid distortion */
+  height: 150px;
+  object-fit: cover;
 }
 
 .video-card h3 {
@@ -115,16 +186,16 @@ h1 {
   text-overflow: ellipsis;
   white-space: normal;
   display: -webkit-box;
-  -webkit-line-clamp: 2; /* Limit to two lines */
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
-  flex-grow: 1; /* Take up extra space to push the button down */
+  flex-grow: 1;
 }
 
 .video-card a {
-  align-self: center; /* Center the button horizontally */
-  margin-top: auto; /* Push the button to the bottom */
-  margin-bottom: 10px; /* Add a small gap above the bottom edge */
-  padding: 8px 12px; /* Compact padding */
+  align-self: center;
+  margin-top: auto;
+  margin-bottom: 10px;
+  padding: 8px 12px;
   text-decoration: none;
   background-color: #007bff;
   color: white;
@@ -134,97 +205,5 @@ h1 {
 }
 
 .video-card a:hover {
-  background-color: #0056b3;
-}
-
-/* Scroll buttons for left and right navigation */
-.scroll-btn {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background-color: rgba(0, 0, 0, 0.5);
-  color: white;
-  border: none;
-  padding: 10px;
-  border-radius: 50%;
-  cursor: pointer;
-  z-index: 10;
-}
-
-.scroll-btn.left {
-  left: -20px;
-}
-
-.scroll-btn.right {
-  right: -20px;
-}
-
-.scroll-btn:hover {
-  background-color: rgba(0, 0, 0, 0.7);
-}
-
-/* Books container */
-.books-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-  margin-bottom: 40px;
-}
-
-/* Book container */
-.book-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-  margin: 20px 0;
-}
-
-/* Individual book card */
-.book-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  width: 300px;
-  background-color: #f9f9f9;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  overflow: hidden;
-}
-
-.book-card img {
-  width: 100%;
-  height: 450px; /* Set a fixed height for all book images */
-  object-fit: cover; /* Ensures the image scales while maintaining proportions */
-  border-bottom: 1px solid #ccc;
-}
-
-.book-card h3 {
-  font-size: 20px;
-  margin: 10px 5px;
-  text-align: center;
-}
-
-.book-card p {
-  font-size: 14px;
-  margin: 5px 10px;
-  text-align: center;
-}
-
-.book-card a {
-  margin-top: auto; /* Pushes the link to the bottom */
-  margin-bottom: 10px;
-  text-decoration: none;
-  background-color: #007bff;
-  color: white;
-  padding: 10px 15px;
-  border-radius: 4px;
-  font-size: 14px;
-  transition: background-color 0.2s ease-in-out;
-}
-
-.book-card a:hover {
   background-color: #0056b3;
 }

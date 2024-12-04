@@ -1,26 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Academic Endeavors</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Academic Endeavors</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
     <h1>Academic Endeavors</h1>
+  </header>
 
-    <!-- Books Section -->
-    <section>
-      <h2>Books</h2>
-      <div id="booksContainer" class="books-container"></div>
-    </section>
+  <!-- Books Section -->
+  <section>
+    <h2>Books</h2>
+    <div class="horizontal-scroll-container" id="booksContainer">
+      <!-- Book cards will be dynamically injected here -->
+    </div>
+  </section>
 
-    <!-- Playlists Section -->
-    <section>
-      <h2>Playlists</h2>
-      <div id="playlistsContainer" class="playlists-container"></div>
-    </section>
+  <!-- Playlists Section -->
+  <section>
+    <h2>Playlists</h2>
+    <div id="playlistsContainer">
+      <!-- Playlist cards will be dynamically injected here -->
+    </div>
+  </section>
 
-    <script src="scripts.js"></script>
-  </body>
+  <script src="scripts.js"></script>
+</body>
 </html>
