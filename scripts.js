@@ -103,18 +103,18 @@ function renderPlaylists(playlists) {
     videoContainer.className = "video-container";
 
     // Render videos and find the second-to-last watched video
-    let lastWatchedVideo = null;
-    let secondLastWatchedVideo = null;
+    let lastWatchedVideoIndex = null;
+    let secondLastWatchedVideoIndex = null;
 
-    playlist.videos.forEach((video) => {
+    playlist.videos.forEach((video, index) => {
       const videoCard = document.createElement("div");
       videoCard.className = "video-card";
 
       // Add "watched" class if the video is watched
       if (video.watched) {
         videoCard.classList.add("watched");
-        secondLastWatchedVideo = lastWatchedVideo; // Update second last watched
-        lastWatchedVideo = videoCard; // Update last watched
+        secondLastWatchedVideoIndex = lastWatchedVideoIndex; // Update second last watched
+        lastWatchedVideoIndex = index; // Update last watched
       }
 
       videoCard.innerHTML = `
@@ -129,13 +129,13 @@ function renderPlaylists(playlists) {
     playlistDiv.appendChild(videoContainer);
     container.appendChild(playlistDiv);
 
-    // Automatically scroll to the second-to-last watched video
-    if (secondLastWatchedVideo) {
+    // Automatically scroll the video container to the second-to-last watched video
+    if (secondLastWatchedVideoIndex !== null) {
+      const scrollOffset = secondLastWatchedVideoIndex * 220; // Adjust 220 to match the video card width + margin
       setTimeout(() => {
-        secondLastWatchedVideo.scrollIntoView({
+        videoContainer.scrollTo({
+          left: scrollOffset,
           behavior: "smooth",
-          block: "nearest",
-          inline: "start",
         });
       }, 100); // Delay to ensure rendering is complete
     }
