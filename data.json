@@ -7,7 +7,8 @@
       "author": "John T. Moore",
       "url": "https://www.amazon.com/Chemistry-Essentials-Dummies-John-Moore/dp/1119591147",
       "thumbnail": "https://m.media-amazon.com/images/I/81NZFJcQF5L._SL1500_.jpg",
-      "description": "A concise guide to the fundamentals of chemistry for beginners and quick review."
+      "totalPages": 192,
+      "readPages": 192
     },
     {
       "id": 2,
@@ -15,15 +16,17 @@
       "author": "Rene Fester Kratz",
       "url": "https://www.amazon.com/Biology-Essentials-Dummies-Fester-Kratz/dp/1119589584",
       "thumbnail": "https://m.media-amazon.com/images/I/81fWA8saI9L._SL1500_.jpg",
-      "description": "An easy-to-read overview of biology concepts perfect for quick reference."
+      "totalPages": 192,
+      "readPages": 192
     },
     {
       "id": 3,
       "title": "Chemistry For Dummies",
       "author": "John T. Moore",
       "url": "https://www.amazon.com/Chemistry-Dummies-Math-Science/dp/B003156A1Y",
-      "thumbnail": "https://m.media-amazon.com/images/I/71t45KMxtRL._SL1388_.jpg",
-      "description": "A comprehensive guide to chemistry concepts and principles for beginners."
+      "thumbnail": "https://m.media-amazon.com/images/I/91FIyw2qhyL.jpg",
+      "totalPages": 384,
+      "readPages": 291
     },
     {
       "id": 4,
@@ -31,7 +34,8 @@
       "author": "Erin Odya",
       "url": "Anatomy & Physiology For Dummies",
       "thumbnail": "https://m.media-amazon.com/images/I/81fjjaiB0DS._SL1500_.jpg",
-      "description": "A comprehensive guide to anatomy and physiology concepts for beginners."
+      "totalPages": 384,
+      "readPages": 26
     },
     {
       "id": 5,
@@ -39,7 +43,8 @@
       "author": "Arthur Winter",
       "url": "https://www.amazon.com/Organic-Chemistry-Dummies-Lifestyle/dp/1119293375",
       "thumbnail": "https://m.media-amazon.com/images/I/81TjzGlkdUL._SL1500_.jpg",
-      "description": "A beginner's guide to organic chemistry concepts and principles."
+      "totalPages": 408,
+      "readPages": 0
     },
     {
       "id": 6,
@@ -47,7 +52,8 @@
       "author": "John T. Moore",
       "url": "https://www.amazon.com/Organic-Chemistry-Dummies-John-Moore/dp/111998517X/",
       "thumbnail": "https://m.media-amazon.com/images/I/81ZYDWAy0CL._SL1500_.jpg",
-      "description": "A comprehensive guide to organic chemistry concepts and principles for beginners."
+      "totalPages": 384,
+      "readPages": 0
     }
   ],
   "playlists": [

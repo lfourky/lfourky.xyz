@@ -1,7 +1,5 @@
-const dataFilePath = "data.json"; // JSON file containing courses, books, and playlists
-const apiBaseUrl = "http://localhost:4000/data"; // API endpoint
+const dataFilePath = "data.json";
 
-// Function to load data from JSON file (development)
 async function loadDataFromJSON() {
   try {
     const response = await fetch(dataFilePath);
@@ -17,36 +15,33 @@ async function loadDataFromJSON() {
   }
 }
 
-// Function to load data from API (production)
-async function loadDataFromAPI() {
-  try {
-    const response = await fetch(apiBaseUrl);
-    if (!response.ok) {
-      throw new Error(`Error fetching data: ${response.statusText}`);
-    }
-
-    const data = await response.json();
-    renderBooks(data.books);
-    renderPlaylists(data.playlists);
-  } catch (error) {
-    console.error("Error loading data from API:", error);
-  }
-}
-
-// Function to render books
 function renderBooks(books) {
   const container = document.getElementById("booksContainer");
   container.innerHTML = ""; // Clear existing content
 
   books.forEach((book) => {
+    const percentage = book.totalPages > 0 ? (book.readPages / book.totalPages) * 100 : 0;
+
     const bookCard = document.createElement("div");
     bookCard.className = "book-card";
 
     bookCard.innerHTML = `
       <img src="${book.thumbnail}" alt="${book.title}" />
+      <div class="progress">
+        <div
+          class="progress-bar"
+          role="progressbar"
+          style="width: ${percentage.toFixed(1)}%;"
+          aria-valuenow="${percentage.toFixed(1)}"
+          aria-valuemin="0"
+          aria-valuemax="100"
+        ></div>
+      </div>
+      <p class="progress-text">
+        ${book.readPages} of ${book.totalPages} pages read
+      </p>
       <h3>${book.title}</h3>
       <p>${book.author}</p>
-      <p>${book.description}</p>
       <a href="${book.url}" target="_blank">View on Amazon</a>
     `;
 
@@ -54,7 +49,7 @@ function renderBooks(books) {
   });
 }
 
-// Function to render playlists
+
 function renderPlaylists(playlists) {
   const container = document.getElementById("playlistsContainer");
   container.innerHTML = ""; // Clear any existing content
@@ -107,10 +102,4 @@ function renderPlaylists(playlists) {
   });
 }
 
-// Uncomment the appropriate function call for your environment:
-
-// Development (load data from JSON)
 loadDataFromJSON();
-
-// Production (load data from API)
-// loadDataFromAPI();
