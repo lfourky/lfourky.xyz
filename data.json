@@ -2,7 +2,6 @@
   "courses": [],
   "books": [
     {
-      "id": 1,
       "title": "Chemistry Essentials For Dummies",
       "author": "John T. Moore",
       "url": "https://www.amazon.com/Chemistry-Essentials-Dummies-John-Moore/dp/1119591147",
@@ -11,7 +10,6 @@
       "readPages": 192
     },
     {
-      "id": 2,
       "title": "Biology Essentials For Dummies",
       "author": "Rene Fester Kratz",
       "url": "https://www.amazon.com/Biology-Essentials-Dummies-Fester-Kratz/dp/1119589584",
@@ -20,7 +18,6 @@
       "readPages": 192
     },
     {
-      "id": 3,
       "title": "Chemistry For Dummies",
       "author": "John T. Moore",
       "url": "https://www.amazon.com/Chemistry-Dummies-Math-Science/dp/B003156A1Y",
@@ -29,7 +26,6 @@
       "readPages": 291
     },
     {
-      "id": 4,
       "title": "Anatomy & Physiology For Dummies",
       "author": "Erin Odya",
       "url": "Anatomy & Physiology For Dummies",
@@ -38,7 +34,22 @@
       "readPages": 26
     },
     {
-      "id": 5,
+      "title": "Genetics 101",
+      "author": "Beth Skwarecki",
+      "url": "https://www.amazon.com/Genetics-101-Chromosomes-Cloning-Everything/dp/1507207646",
+      "thumbnail": "https://m.media-amazon.com/images/I/71PMAod4yaL._SL1500_.jpg",
+      "totalPages": 234,
+      "readPages": 31
+    },
+    {
+      "title": "Anatomy 101",
+      "author": "Kevin Langford",
+      "url": "https://www.amazon.com/Anatomy-101-Muscles-Organs-Systems/dp/1440584265",
+      "thumbnail": "https://m.media-amazon.com/images/I/71yxMN11BZL._SL1500_.jpg",
+      "totalPages": 373,
+      "readPages": 0
+    },
+    {
       "title": "Organic Chemistry I For Dummies",
       "author": "Arthur Winter",
       "url": "https://www.amazon.com/Organic-Chemistry-Dummies-Lifestyle/dp/1119293375",
@@ -47,12 +58,20 @@
       "readPages": 0
     },
     {
-      "id": 6,
       "title": "Organic Chemistry II For Dummies",
       "author": "John T. Moore",
       "url": "https://www.amazon.com/Organic-Chemistry-Dummies-John-Moore/dp/111998517X/",
       "thumbnail": "https://m.media-amazon.com/images/I/81ZYDWAy0CL._SL1500_.jpg",
       "totalPages": 384,
+      "readPages": 0
+    },
+    {
+      "id": 7,
+      "title": "Biochemistry For Dummies",
+      "author": "John T. Moore",
+      "url": "https://www.amazon.com/Biochemistry-Dummies-John-T-Moore/dp/1119860954",
+      "thumbnail": "https://m.media-amazon.com/images/I/81TmQrhMTrL._SL1500_.jpg",
+      "totalPages": 368,
       "readPages": 0
     }
   ],

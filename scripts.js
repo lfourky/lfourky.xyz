@@ -131,7 +131,7 @@ function renderPlaylists(playlists) {
 
     // Automatically scroll the video container to the second-to-last watched video
     if (secondLastWatchedVideoIndex !== null) {
-      const scrollOffset = secondLastWatchedVideoIndex * 220; // Adjust 220 to match the video card width + margin
+      const scrollOffset = secondLastWatchedVideoIndex * 250; // Adjust 220 to match the video card width + margin
       setTimeout(() => {
         videoContainer.scrollTo({
           left: scrollOffset,
