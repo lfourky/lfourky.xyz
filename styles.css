@@ -119,6 +119,12 @@ section h2 {
   color: #333;
 }
 
+.book-card.completed {
+  opacity: 0.5; /* Makes the card slightly transparent */
+  filter: grayscale(100%); /* Converts the card to grayscale */
+  transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
+}
+
 /* Book title */
 .book-card h3 {
   font-size: 16px; /* Adjusted font size */
@@ -238,4 +244,27 @@ section h2 {
 
 .playlist .video-card a:hover {
   background-color: #0056b3;
+}
+
+.playlist .video-card.watched {
+  opacity: 0.5; /* Makes the card slightly transparent */
+  filter: grayscale(100%); /* Converts the card to grayscale */
+  transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
+}
+
+.playlist .progress-bar-container {
+  width: 90%;
+  background-color: #ddd; /* Lighter background for the container */
+  height: 16px; /* Slightly taller than book progress bars */
+  border-radius: 8px; /* Rounded corners */
+  margin: 10px auto; /* Center it and add spacing */
+  overflow: hidden;
+  position: relative;
+}
+
+.playlist .progress-bar {
+  height: 100%;
+  background-color: #28a745; /* Green color for playlist progress */
+  transition: width 0.3s ease-in-out; /* Smooth width changes */
+  border-radius: 8px; /* Rounded corners for smooth appearance */
 }

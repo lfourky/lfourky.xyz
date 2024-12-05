@@ -20,10 +20,16 @@ function renderBooks(books) {
   container.innerHTML = ""; // Clear existing content
 
   books.forEach((book) => {
-    const percentage = book.totalPages > 0 ? (book.readPages / book.totalPages) * 100 : 0;
+    const percentage =
+      book.totalPages > 0 ? (book.readPages / book.totalPages) * 100 : 0;
 
     const bookCard = document.createElement("div");
     bookCard.className = "book-card";
+
+    // Add "completed" class if the book is fully read
+    if (percentage === 100) {
+      bookCard.classList.add("completed");
+    }
 
     bookCard.innerHTML = `
       <img src="${book.thumbnail}" alt="${book.title}" />
@@ -55,6 +61,15 @@ function renderPlaylists(playlists) {
   container.innerHTML = ""; // Clear any existing content
 
   playlists.forEach((playlist) => {
+    // Dynamically calculate progress
+    const watchedVideos = playlist.videos.filter(
+      (video) => video.watched
+    ).length;
+    const totalVideos = playlist.videos.length;
+    const percentage =
+      totalVideos > 0 ? (watchedVideos / totalVideos) * 100 : 0;
+
+    // Create playlist container
     const playlistDiv = document.createElement("div");
     playlistDiv.className = "playlist";
 
@@ -69,14 +84,19 @@ function renderPlaylists(playlists) {
     progressBarContainer.className = "progress-bar-container";
     const progressBar = document.createElement("div");
     progressBar.className = "progress-bar";
-    progressBar.style.width = `${playlist.progress.percentage}%`;
+    progressBar.style.width = `${percentage}%`; // Set dynamic width
+    progressBar.setAttribute("aria-valuenow", percentage.toFixed(1));
+    progressBar.setAttribute("aria-valuemin", "0");
+    progressBar.setAttribute("aria-valuemax", "100");
     progressBarContainer.appendChild(progressBar);
     playlistDiv.appendChild(progressBarContainer);
 
     // Display progress text
     const progressText = document.createElement("p");
     progressText.style.textAlign = "center";
-    progressText.textContent = `Progress: ${playlist.progress.watchedVideos} / ${playlist.progress.totalVideos} (${playlist.progress.percentage}%)`;
+    progressText.textContent = `Progress: ${watchedVideos} / ${totalVideos} (${percentage.toFixed(
+      1
+    )}%)`;
     playlistDiv.appendChild(progressText);
 
     // Create video container
@@ -87,6 +107,11 @@ function renderPlaylists(playlists) {
     playlist.videos.forEach((video) => {
       const videoCard = document.createElement("div");
       videoCard.className = "video-card";
+
+      // Add "watched" class if the video is watched
+      if (video.watched) {
+        videoCard.classList.add("watched");
+      }
 
       videoCard.innerHTML = `
         <img src="${video.thumbnail}" alt="${video.title}">
