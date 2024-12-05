@@ -58,635 +58,2210 @@
   ],
   "playlists": [
     {
-      "id": 1,
-      "name": "Crash Course Chemistry",
+      "name": "Crash Course: Chemistry",
+      "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
       "videos": [
         {
-          "id": 1,
+          "id": "uVFCOfSuPTo",
           "title": "Crash Course Chemistry Preview!",
           "url": "https://www.youtube.com/watch?v=uVFCOfSuPTo",
           "thumbnail": "https://i.ytimg.com/vi/uVFCOfSuPTo/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 2,
+          "id": "FSyAehMdpyI",
           "title": "The Nucleus: Crash Course Chemistry #1",
           "url": "https://www.youtube.com/watch?v=FSyAehMdpyI",
           "thumbnail": "https://i.ytimg.com/vi/FSyAehMdpyI/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 3,
-          "title": "Unit Conversion \u0026 Significant Figures: Crash Course Chemistry #2",
+          "id": "hQpQ0hxVNTg",
+          "title": "Unit Conversion & Significant Figures: Crash Course Chemistry #2",
           "url": "https://www.youtube.com/watch?v=hQpQ0hxVNTg",
           "thumbnail": "https://i.ytimg.com/vi/hQpQ0hxVNTg/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 4,
+          "id": "QiiyvzZBKT8",
           "title": "The Creation of Chemistry - The Fundamental Laws: Crash Course Chemistry #3",
           "url": "https://www.youtube.com/watch?v=QiiyvzZBKT8",
           "thumbnail": "https://i.ytimg.com/vi/QiiyvzZBKT8/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 5,
+          "id": "0RRVV4Diomg",
           "title": "The Periodic Table: Crash Course Chemistry #4",
           "url": "https://www.youtube.com/watch?v=0RRVV4Diomg",
           "thumbnail": "https://i.ytimg.com/vi/0RRVV4Diomg/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 6,
+          "id": "rcKilE9CdaA",
           "title": "The Electron: Crash Course Chemistry #5",
           "url": "https://www.youtube.com/watch?v=rcKilE9CdaA",
           "thumbnail": "https://i.ytimg.com/vi/rcKilE9CdaA/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 7,
+          "id": "UL1jmJaUkaQ",
           "title": "Stoichiometry - Chemistry for Massive Creatures: Crash Course Chemistry #6",
           "url": "https://www.youtube.com/watch?v=UL1jmJaUkaQ",
           "thumbnail": "https://i.ytimg.com/vi/UL1jmJaUkaQ/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 8,
-          "title": "Water \u0026 Solutions - for Dirty Laundry: Crash Course Chemistry #7",
+          "id": "AN4KifV12DA",
+          "title": "Water & Solutions - for Dirty Laundry: Crash Course Chemistry #7",
           "url": "https://www.youtube.com/watch?v=AN4KifV12DA",
           "thumbnail": "https://i.ytimg.com/vi/AN4KifV12DA/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 9,
+          "id": "ANi709MYnWg",
           "title": "Acid-Base Reactions in Solution: Crash Course Chemistry #8",
           "url": "https://www.youtube.com/watch?v=ANi709MYnWg",
           "thumbnail": "https://i.ytimg.com/vi/ANi709MYnWg/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 10,
+          "id": "IIu16dy3ThI",
           "title": "Precipitation Reactions: Crash Course Chemistry #9",
           "url": "https://www.youtube.com/watch?v=IIu16dy3ThI",
           "thumbnail": "https://i.ytimg.com/vi/IIu16dy3ThI/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 11,
+          "id": "lQ6FBA1HM3s",
           "title": "Redox Reactions: Crash Course Chemistry #10",
           "url": "https://www.youtube.com/watch?v=lQ6FBA1HM3s",
           "thumbnail": "https://i.ytimg.com/vi/lQ6FBA1HM3s/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 12,
+          "id": "mlRhLicNo8Q",
           "title": "How to Speak Chemistrian: Crash Course Chemistry #11",
           "url": "https://www.youtube.com/watch?v=mlRhLicNo8Q",
           "thumbnail": "https://i.ytimg.com/vi/mlRhLicNo8Q/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 13,
+          "id": "BxUS1K7xu30",
           "title": "The Ideal Gas Law: Crash Course Chemistry #12",
           "url": "https://www.youtube.com/watch?v=BxUS1K7xu30",
           "thumbnail": "https://i.ytimg.com/vi/BxUS1K7xu30/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
-          "id": 14,
+          "id": "8SRAkXMu3d0",
           "title": "Ideal Gas Problems: Crash Course Chemistry #13",
           "url": "https://www.youtube.com/watch?v=8SRAkXMu3d0",
           "thumbnail": "https://i.ytimg.com/vi/8SRAkXMu3d0/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 15,
+          "id": "GIPrsWuSkQc",
           "title": "Real Gases: Crash Course Chemistry #14",
           "url": "https://www.youtube.com/watch?v=GIPrsWuSkQc",
           "thumbnail": "https://i.ytimg.com/vi/GIPrsWuSkQc/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 16,
-          "title": "Partial Pressures \u0026 Vapor Pressure: Crash Course Chemistry #15",
+          "id": "JbqtqCunYzA",
+          "title": "Partial Pressures & Vapor Pressure: Crash Course Chemistry #15",
           "url": "https://www.youtube.com/watch?v=JbqtqCunYzA",
           "thumbnail": "https://i.ytimg.com/vi/JbqtqCunYzA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 17,
+          "id": "TLRZAFU_9Kg",
           "title": "Passing Gases: Effusion, Diffusion, and the Velocity of a Gas - Crash Course Chemistry #16",
           "url": "https://www.youtube.com/watch?v=TLRZAFU_9Kg",
           "thumbnail": "https://i.ytimg.com/vi/TLRZAFU_9Kg/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 18,
-          "title": "Energy \u0026 Chemistry: Crash Course Chemistry #17",
+          "id": "GqtUWyDR1fg",
+          "title": "Energy & Chemistry: Crash Course Chemistry #17",
           "url": "https://www.youtube.com/watch?v=GqtUWyDR1fg",
           "thumbnail": "https://i.ytimg.com/vi/GqtUWyDR1fg/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 19,
+          "id": "SV7U4yAXL5I",
           "title": "Enthalpy: Crash Course Chemistry #18",
           "url": "https://www.youtube.com/watch?v=SV7U4yAXL5I",
           "thumbnail": "https://i.ytimg.com/vi/SV7U4yAXL5I/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 20,
+          "id": "JuWtBR-rDQk",
           "title": "Calorimetry: Crash Course Chemistry #19",
           "url": "https://www.youtube.com/watch?v=JuWtBR-rDQk",
           "thumbnail": "https://i.ytimg.com/vi/JuWtBR-rDQk/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 21,
+          "id": "ZsY4WcQOrfk",
           "title": "Entropy: Embrace the Chaos! Crash Course Chemistry #20",
           "url": "https://www.youtube.com/watch?v=ZsY4WcQOrfk",
           "thumbnail": "https://i.ytimg.com/vi/ZsY4WcQOrfk/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 22,
-          "title": "Lab Techniques \u0026 Safety: Crash Course Chemistry #21",
+          "id": "VRWRmIEHr3A",
+          "title": "Lab Techniques & Safety: Crash Course Chemistry #21",
           "url": "https://www.youtube.com/watch?v=VRWRmIEHr3A",
           "thumbnail": "https://i.ytimg.com/vi/VRWRmIEHr3A/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 23,
+          "id": "QXT4OVM4vXI",
           "title": "Atomic Hook-Ups - Types of Chemical Bonds: Crash Course Chemistry #22",
           "url": "https://www.youtube.com/watch?v=QXT4OVM4vXI",
           "thumbnail": "https://i.ytimg.com/vi/QXT4OVM4vXI/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 24,
-          "title": "Polar \u0026 Non-Polar Molecules: Crash Course Chemistry #23",
+          "id": "PVL24HAesnc",
+          "title": "Polar & Non-Polar Molecules: Crash Course Chemistry #23",
           "url": "https://www.youtube.com/watch?v=PVL24HAesnc",
           "thumbnail": "https://i.ytimg.com/vi/PVL24HAesnc/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 25,
+          "id": "a8LF7JEb0IA",
           "title": "Bonding Models and Lewis Structures: Crash Course Chemistry #24",
           "url": "https://www.youtube.com/watch?v=a8LF7JEb0IA",
           "thumbnail": "https://i.ytimg.com/vi/a8LF7JEb0IA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 26,
+          "id": "cPDptc0wUYI",
           "title": "Orbitals: Crash Course Chemistry #25",
           "url": "https://www.youtube.com/watch?v=cPDptc0wUYI",
           "thumbnail": "https://i.ytimg.com/vi/cPDptc0wUYI/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 27,
+          "id": "BqQJPCdmIp8",
           "title": "Liquids: Crash Course Chemistry #26",
           "url": "https://www.youtube.com/watch?v=BqQJPCdmIp8",
           "thumbnail": "https://i.ytimg.com/vi/BqQJPCdmIp8/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 28,
+          "id": "9h2f1Bjr0p4",
           "title": "Solutions: Crash Course Chemistry #27",
           "url": "https://www.youtube.com/watch?v=9h2f1Bjr0p4",
           "thumbnail": "https://i.ytimg.com/vi/9h2f1Bjr0p4/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 29,
+          "id": "g5wNg_dKsYY",
           "title": "Equilibrium: Crash Course Chemistry #28",
           "url": "https://www.youtube.com/watch?v=g5wNg_dKsYY",
           "thumbnail": "https://i.ytimg.com/vi/g5wNg_dKsYY/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 30,
+          "id": "DP-vWN1yXrY",
           "title": "Equilibrium Equations: Crash Course Chemistry #29",
           "url": "https://www.youtube.com/watch?v=DP-vWN1yXrY",
           "thumbnail": "https://i.ytimg.com/vi/DP-vWN1yXrY/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 31,
+          "id": "LS67vS10O5Y",
           "title": "pH and pOH: Crash Course Chemistry #30",
           "url": "https://www.youtube.com/watch?v=LS67vS10O5Y",
           "thumbnail": "https://i.ytimg.com/vi/LS67vS10O5Y/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 32,
+          "id": "8Fdt5WnYn1k",
           "title": "Buffers, the Acid Rain Slayer: Crash Course Chemistry #31",
           "url": "https://www.youtube.com/watch?v=8Fdt5WnYn1k",
           "thumbnail": "https://i.ytimg.com/vi/8Fdt5WnYn1k/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 33,
+          "id": "7qOFtL3VEBc",
           "title": "Kinetics: Chemistry's Demolition Derby - Crash Course Chemistry #32",
           "url": "https://www.youtube.com/watch?v=7qOFtL3VEBc",
           "thumbnail": "https://i.ytimg.com/vi/7qOFtL3VEBc/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 34,
+          "id": "bzr-byiSXlA",
           "title": "Doing Solids: Crash Course Chemistry #33",
           "url": "https://www.youtube.com/watch?v=bzr-byiSXlA",
           "thumbnail": "https://i.ytimg.com/vi/bzr-byiSXlA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 35,
+          "id": "b_SXwfHQ774",
           "title": "Network Solids and Carbon: Crash Course Chemistry #34",
           "url": "https://www.youtube.com/watch?v=b_SXwfHQ774",
           "thumbnail": "https://i.ytimg.com/vi/b_SXwfHQ774/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 36,
+          "id": "kdy3RsZk7As",
           "title": "Silicon - The Internet's Favorite Element: Crash Course Chemistry #35",
           "url": "https://www.youtube.com/watch?v=kdy3RsZk7As",
           "thumbnail": "https://i.ytimg.com/vi/kdy3RsZk7As/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 37,
+          "id": "IV4IUsholjg",
           "title": "Electrochemistry: Crash Course Chemistry #36",
           "url": "https://www.youtube.com/watch?v=IV4IUsholjg",
           "thumbnail": "https://i.ytimg.com/vi/IV4IUsholjg/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 38,
+          "id": "thnDxFdkzZs",
           "title": "The History of Atomic Chemistry: Crash Course Chemistry #37",
           "url": "https://www.youtube.com/watch?v=thnDxFdkzZs",
           "thumbnail": "https://i.ytimg.com/vi/thnDxFdkzZs/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 39,
+          "id": "KWAsz59F8gA",
           "title": "Nuclear Chemistry: Crash Course Chemistry #38",
           "url": "https://www.youtube.com/watch?v=KWAsz59F8gA",
           "thumbnail": "https://i.ytimg.com/vi/KWAsz59F8gA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 40,
+          "id": "FU6y1XIADdg",
           "title": "Nuclear Chemistry Part 2 - Fusion and Fission: Crash Course Chemistry #39",
           "url": "https://www.youtube.com/watch?v=FU6y1XIADdg",
           "thumbnail": "https://i.ytimg.com/vi/FU6y1XIADdg/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 41,
+          "id": "UloIw7dhnlQ",
           "title": "Hydrocarbon Power!: Crash Course Chemistry #40",
           "url": "https://www.youtube.com/watch?v=UloIw7dhnlQ",
           "thumbnail": "https://i.ytimg.com/vi/UloIw7dhnlQ/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 42,
-          "title": "Alkenes \u0026 Alkynes: Crash Course Chemistry #41",
+          "id": "CEH3O6l1pbw",
+          "title": "Alkenes & Alkynes: Crash Course Chemistry #41",
           "url": "https://www.youtube.com/watch?v=CEH3O6l1pbw",
           "thumbnail": "https://i.ytimg.com/vi/CEH3O6l1pbw/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 43,
-          "title": "Aromatics \u0026 Cyclic Compounds: Crash Course Chemistry #42",
+          "id": "kXFEex-dABU",
+          "title": "Aromatics & Cyclic Compounds: Crash Course Chemistry #42",
           "url": "https://www.youtube.com/watch?v=kXFEex-dABU",
           "thumbnail": "https://i.ytimg.com/vi/kXFEex-dABU/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 44,
+          "id": "hlXc_eEtBHA",
           "title": "Hydrocarbon Derivatives: Crash Course Chemistry #43",
           "url": "https://www.youtube.com/watch?v=hlXc_eEtBHA",
           "thumbnail": "https://i.ytimg.com/vi/hlXc_eEtBHA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 45,
+          "id": "U7wavimfNFE",
           "title": "Nomenclature: Crash Course Chemistry #44",
           "url": "https://www.youtube.com/watch?v=U7wavimfNFE",
           "thumbnail": "https://i.ytimg.com/vi/U7wavimfNFE/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 46,
+          "id": "rHxxLYzJ8Sw",
           "title": "Polymers: Crash Course Chemistry #45",
           "url": "https://www.youtube.com/watch?v=rHxxLYzJ8Sw",
           "thumbnail": "https://i.ytimg.com/vi/rHxxLYzJ8Sw/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 47,
+          "id": "aLuSi_6Ol8M",
           "title": "The Global Carbon Cycle: Crash Course Chemistry #46",
           "url": "https://www.youtube.com/watch?v=aLuSi_6Ol8M",
           "thumbnail": "https://i.ytimg.com/vi/aLuSi_6Ol8M/hqdefault.jpg",
           "watched": false
         }
-      ],
-      "progress": {
-        "totalVideos": 47,
-        "watchedVideos": 0,
-        "percentage": 0
-      }
+      ]
     },
     {
-      "id": 2,
-      "name": "Crash Course Biology",
+      "name": "General Chemistry 2021/2022",
+      "url": "https://www.youtube.com/playlist?list=PLMlqayk59Ivp6m_JYBgt78oHvMNmxKYvA",
       "videos": [
         {
-          "id": 48,
+          "id": "coeMjcxN7S8",
+          "title": "1.1 Matter | General Chemistry Complete Course",
+          "url": "https://www.youtube.com/watch?v=coeMjcxN7S8",
+          "thumbnail": "https://i.ytimg.com/vi/coeMjcxN7S8/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "Tm9eEd6b3V0",
+          "title": "1.2 Scientific Notation & Significant Figures | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=Tm9eEd6b3V0",
+          "thumbnail": "https://i.ytimg.com/vi/Tm9eEd6b3V0/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "_GB7IhyQt9A",
+          "title": "1.3 Units and Conversions | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=_GB7IhyQt9A",
+          "thumbnail": "https://i.ytimg.com/vi/_GB7IhyQt9A/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "tdPMDJeDcWo",
+          "title": "2.1 Atomic Theory and Structure & Introduction to the Periodic Table of the Elements | Chemistry",
+          "url": "https://www.youtube.com/watch?v=tdPMDJeDcWo",
+          "thumbnail": "https://i.ytimg.com/vi/tdPMDJeDcWo/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "kc0WFJtOvM8",
+          "title": "2.2 Naming Ionic Compounds | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=kc0WFJtOvM8",
+          "thumbnail": "https://i.ytimg.com/vi/kc0WFJtOvM8/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "eWn5jnJf0h4",
+          "title": "2.3 Naming Molecular Compounds | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=eWn5jnJf0h4",
+          "thumbnail": "https://i.ytimg.com/vi/eWn5jnJf0h4/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "27ZAO7LXc4o",
+          "title": "2.4 How to Name Acids | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=27ZAO7LXc4o",
+          "thumbnail": "https://i.ytimg.com/vi/27ZAO7LXc4o/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "g4bvNDyIkLU",
+          "title": "3.1 Chemical Reactions & Chemical Equations | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=g4bvNDyIkLU",
+          "thumbnail": "https://i.ytimg.com/vi/g4bvNDyIkLU/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "jh5s9lrpInc",
+          "title": "3.2 Calculations with Moles | Stoichiometry | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=jh5s9lrpInc",
+          "thumbnail": "https://i.ytimg.com/vi/jh5s9lrpInc/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "JmylAjeWKZE",
+          "title": "3.3 Mass Percent and Empirical and Molecular Formulas | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=JmylAjeWKZE",
+          "thumbnail": "https://i.ytimg.com/vi/JmylAjeWKZE/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "k0pd4KhxvyQ",
+          "title": "3.4 Limiting Reactant Problems | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=k0pd4KhxvyQ",
+          "thumbnail": "https://i.ytimg.com/vi/k0pd4KhxvyQ/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "yMkANeu48gw",
+          "title": "4.1 Solutions and Electrolytes | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=yMkANeu48gw",
+          "thumbnail": "https://i.ytimg.com/vi/yMkANeu48gw/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "_XpsM24ybBw",
+          "title": "4.2 Double Displacement Reactions | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=_XpsM24ybBw",
+          "thumbnail": "https://i.ytimg.com/vi/_XpsM24ybBw/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "KyUEq2ZCCYM",
+          "title": "4.3 Oxidation Reduction Reactions | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=KyUEq2ZCCYM",
+          "thumbnail": "https://i.ytimg.com/vi/KyUEq2ZCCYM/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "zhGeTri8xX8",
+          "title": "4.4 Molarity and Dilutions | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=zhGeTri8xX8",
+          "thumbnail": "https://i.ytimg.com/vi/zhGeTri8xX8/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "mJ41N_i6xXk",
+          "title": "4.5 Solution Stoichiometry | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=mJ41N_i6xXk",
+          "thumbnail": "https://i.ytimg.com/vi/mJ41N_i6xXk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "TlTNi84g7QI",
+          "title": "5.1 First Law of Thermodynamics and Enthalpy | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=TlTNi84g7QI",
+          "thumbnail": "https://i.ytimg.com/vi/TlTNi84g7QI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "L5aVubSX5wU",
+          "title": "5.1b PV Work | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=L5aVubSX5wU",
+          "thumbnail": "https://i.ytimg.com/vi/L5aVubSX5wU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "566Rn3XSwlg",
+          "title": "5.2 Calorimetry | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=566Rn3XSwlg",
+          "thumbnail": "https://i.ytimg.com/vi/566Rn3XSwlg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "RZAxyojjzEo",
+          "title": "5.3 Hess's Law and Enthalpy of Formation | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=RZAxyojjzEo",
+          "thumbnail": "https://i.ytimg.com/vi/RZAxyojjzEo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ptC1ETA2qUE",
+          "title": "6.1 Nature of Light and the Photoelectric Effect | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=ptC1ETA2qUE",
+          "thumbnail": "https://i.ytimg.com/vi/ptC1ETA2qUE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "x4goeoHDkWk",
+          "title": "6.2 Electronic Transitions Absorption and Emission | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=x4goeoHDkWk",
+          "thumbnail": "https://i.ytimg.com/vi/x4goeoHDkWk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "XK2Y0D76S9U",
+          "title": "6.3 The de Broglie Relation and the Heisenberg Uncertainty Principle | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=XK2Y0D76S9U",
+          "thumbnail": "https://i.ytimg.com/vi/XK2Y0D76S9U/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "YZ_aRnQXjVI",
+          "title": "6.4 Quantum Numbers and Atomic Orbitals | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=YZ_aRnQXjVI",
+          "thumbnail": "https://i.ytimg.com/vi/YZ_aRnQXjVI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "sZ7pkgDWHGM",
+          "title": "6.5 Electron Configuration | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=sZ7pkgDWHGM",
+          "thumbnail": "https://i.ytimg.com/vi/sZ7pkgDWHGM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "h_qvUsadpjk",
+          "title": "7.1 Atomic Radius | Periodic Trends | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=h_qvUsadpjk",
+          "thumbnail": "https://i.ytimg.com/vi/h_qvUsadpjk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "6cv--WcaMPQ",
+          "title": "7.1b Slater's Rules | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=6cv--WcaMPQ",
+          "thumbnail": "https://i.ytimg.com/vi/6cv--WcaMPQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "78ts7G3LMFU",
+          "title": "7.2 Ionization Energy | Periodic Trends | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=78ts7G3LMFU",
+          "thumbnail": "https://i.ytimg.com/vi/78ts7G3LMFU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "sdUd_eZ66Tc",
+          "title": "7.3 Electron Affinity & Electronegativity | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=sdUd_eZ66Tc",
+          "thumbnail": "https://i.ytimg.com/vi/sdUd_eZ66Tc/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "prVSnEHqYv8",
+          "title": "7.4 Properties of Elements and Compounds | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=prVSnEHqYv8",
+          "thumbnail": "https://i.ytimg.com/vi/prVSnEHqYv8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "JtNbVC1-V14",
+          "title": "8.1 Ionic Bonding | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=JtNbVC1-V14",
+          "thumbnail": "https://i.ytimg.com/vi/JtNbVC1-V14/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "LfXxULb-Ues",
+          "title": "8.1b Born Haber Cycle | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=LfXxULb-Ues",
+          "thumbnail": "https://i.ytimg.com/vi/LfXxULb-Ues/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "UrY5LTNdDdw",
+          "title": "8.2 How to Draw Lewis Dot Structures | Complete Guide | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=UrY5LTNdDdw",
+          "thumbnail": "https://i.ytimg.com/vi/UrY5LTNdDdw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "G10ZEQNYSQQ",
+          "title": "8.3 Bond Enthalpy | Calculating Delta H | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=G10ZEQNYSQQ",
+          "thumbnail": "https://i.ytimg.com/vi/G10ZEQNYSQQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "2vfQtwYkDtg",
+          "title": "9.1 VSEPR Theory and Molecular Shapes | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=2vfQtwYkDtg",
+          "thumbnail": "https://i.ytimg.com/vi/2vfQtwYkDtg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "HnLarF8emYU",
+          "title": "9.2 Polarity | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=HnLarF8emYU",
+          "thumbnail": "https://i.ytimg.com/vi/HnLarF8emYU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "hQk9xNU_2nU",
+          "title": "9.3 Hybridization | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=hQk9xNU_2nU",
+          "thumbnail": "https://i.ytimg.com/vi/hQk9xNU_2nU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "_ztXgT-aBZU",
+          "title": "9.4 Sigma Bonds and Pi Bonds | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=_ztXgT-aBZU",
+          "thumbnail": "https://i.ytimg.com/vi/_ztXgT-aBZU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "iV-YnU6xGWU",
+          "title": "9.5 Molecular Orbital Theory | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=iV-YnU6xGWU",
+          "thumbnail": "https://i.ytimg.com/vi/iV-YnU6xGWU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "qVQLSsarSg4",
+          "title": "10.1 Properties of Gases | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=qVQLSsarSg4",
+          "thumbnail": "https://i.ytimg.com/vi/qVQLSsarSg4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "NHMUXG8RVJM",
+          "title": "10.2 Gas Laws Including the Ideal Gas Law | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=NHMUXG8RVJM",
+          "thumbnail": "https://i.ytimg.com/vi/NHMUXG8RVJM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "5NfHrn2fAlM",
+          "title": "10.3 Dalton's Law of Partial Pressure, Gas Density, & Graham's Law of Effusion | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=5NfHrn2fAlM",
+          "thumbnail": "https://i.ytimg.com/vi/5NfHrn2fAlM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "oRDuEvMvXwY",
+          "title": "10.4 Real Gases & the Van der Waals Equation | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=oRDuEvMvXwY",
+          "thumbnail": "https://i.ytimg.com/vi/oRDuEvMvXwY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "AqpCVyexB1w",
+          "title": "11.1 Intermolecular Forces | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=AqpCVyexB1w",
+          "thumbnail": "https://i.ytimg.com/vi/AqpCVyexB1w/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "WDgFCI_BYmo",
+          "title": "11.2 Phase Diagrams | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=WDgFCI_BYmo",
+          "thumbnail": "https://i.ytimg.com/vi/WDgFCI_BYmo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Z57pyi7Y5lg",
+          "title": "11.3 Structures of Solids | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=Z57pyi7Y5lg",
+          "thumbnail": "https://i.ytimg.com/vi/Z57pyi7Y5lg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "t9rWqnmz7Xo",
+          "title": "13.1 Solution Formation and Solubility | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=t9rWqnmz7Xo",
+          "thumbnail": "https://i.ytimg.com/vi/t9rWqnmz7Xo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "49cMUpNuX3o",
+          "title": "13.2 Units of Concentration | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=49cMUpNuX3o",
+          "thumbnail": "https://i.ytimg.com/vi/49cMUpNuX3o/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "93QS5BhEN7s",
+          "title": "13.3 Colligative Properties | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=93QS5BhEN7s",
+          "thumbnail": "https://i.ytimg.com/vi/93QS5BhEN7s/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "QySMNo90hh4",
+          "title": "14.1 Rate Expressions and the Rate of Reaction | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=QySMNo90hh4",
+          "thumbnail": "https://i.ytimg.com/vi/QySMNo90hh4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "HiKLl5-F0PM",
+          "title": "14.2 Rate Laws | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=HiKLl5-F0PM",
+          "thumbnail": "https://i.ytimg.com/vi/HiKLl5-F0PM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "NyJz9poJUCs",
+          "title": "14.3 Reaction Mechanisms, Catalysts, and Reaction Coordinate Diagrams | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=NyJz9poJUCs",
+          "thumbnail": "https://i.ytimg.com/vi/NyJz9poJUCs/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "yuMhsPuftXo",
+          "title": "14.4 Collision Theory and the Arrhenius Equation | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=yuMhsPuftXo",
+          "thumbnail": "https://i.ytimg.com/vi/yuMhsPuftXo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ySysg261sus",
+          "title": "14.5 Integrated Rate Laws | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=ySysg261sus",
+          "thumbnail": "https://i.ytimg.com/vi/ySysg261sus/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "YHrydv1sJcU",
+          "title": "14.5b Derivation of the Integrated Rate Laws | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=YHrydv1sJcU",
+          "thumbnail": "https://i.ytimg.com/vi/YHrydv1sJcU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "aaLk0HudhKI",
+          "title": "15.1 Chemical Equilibrium and Equilibrium Constants | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=aaLk0HudhKI",
+          "thumbnail": "https://i.ytimg.com/vi/aaLk0HudhKI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "NgkGD6w2hMY",
+          "title": "15.2 Le Chatelier's Principle | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=NgkGD6w2hMY",
+          "thumbnail": "https://i.ytimg.com/vi/NgkGD6w2hMY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "60jE_6j3Ak0",
+          "title": "15.3 Equilibrium Calculations Using ICE Charts (aka ICE Tables) | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=60jE_6j3Ak0",
+          "thumbnail": "https://i.ytimg.com/vi/60jE_6j3Ak0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "mSL4QpJkeW4",
+          "title": "16.1 Introduction to Acids and Bases | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=mSL4QpJkeW4",
+          "thumbnail": "https://i.ytimg.com/vi/mSL4QpJkeW4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ytULYN-D3l4",
+          "title": "16.2 Binary Acids, Oxoacids, and Polyprotic Acids | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=ytULYN-D3l4",
+          "thumbnail": "https://i.ytimg.com/vi/ytULYN-D3l4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "nnLxMrTdDvw",
+          "title": "16.3 The pH Scale and pH Calculations | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=nnLxMrTdDvw",
+          "thumbnail": "https://i.ytimg.com/vi/nnLxMrTdDvw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "WUkiaeZe_3o",
+          "title": "16.4 pH Calculations for Strong Acids and Bases | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=WUkiaeZe_3o",
+          "thumbnail": "https://i.ytimg.com/vi/WUkiaeZe_3o/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "5IlHbc7ZX5w",
+          "title": "16.5 pH Calculations for Weak Acids and Bases | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=5IlHbc7ZX5w",
+          "thumbnail": "https://i.ytimg.com/vi/5IlHbc7ZX5w/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ZLmeduuyt6M",
+          "title": "16.6 Acidity and Basicity of Salts | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=ZLmeduuyt6M",
+          "thumbnail": "https://i.ytimg.com/vi/ZLmeduuyt6M/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "AQdes2OlLgU",
+          "title": "17.1 Buffers and Buffer pH Calculations | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=AQdes2OlLgU",
+          "thumbnail": "https://i.ytimg.com/vi/AQdes2OlLgU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "8ZlKR9crGws",
+          "title": "17.2 Acid-Base Titrations and Titration Curves | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=8ZlKR9crGws",
+          "thumbnail": "https://i.ytimg.com/vi/8ZlKR9crGws/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "8qs4na0X-YE",
+          "title": "17.3a Strong Acid Strong Base Titrations pH Calculations | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=8qs4na0X-YE",
+          "thumbnail": "https://i.ytimg.com/vi/8qs4na0X-YE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "3Y9TaxwcQGs",
+          "title": "17.3b Weak Acid Strong Base Titrations pH Calculations | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=3Y9TaxwcQGs",
+          "thumbnail": "https://i.ytimg.com/vi/3Y9TaxwcQGs/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "CUsd3-bR_XY",
+          "title": "17.4 Solubility and Ksp | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=CUsd3-bR_XY",
+          "thumbnail": "https://i.ytimg.com/vi/CUsd3-bR_XY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "xU3kUaRng9I",
+          "title": "17.5 Common Ion Effect and Precipitation | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=xU3kUaRng9I",
+          "thumbnail": "https://i.ytimg.com/vi/xU3kUaRng9I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "5BqL8x2J0_Y",
+          "title": "17.6 pH Effects on Solubility | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=5BqL8x2J0_Y",
+          "thumbnail": "https://i.ytimg.com/vi/5BqL8x2J0_Y/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "mNnmcXUJQGE",
+          "title": "18.1 The Laws of Thermodynamics | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=mNnmcXUJQGE",
+          "thumbnail": "https://i.ytimg.com/vi/mNnmcXUJQGE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "8vBrpa2RsTY",
+          "title": "18.2 Entropy | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=8vBrpa2RsTY",
+          "thumbnail": "https://i.ytimg.com/vi/8vBrpa2RsTY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "bI9s4r7GjUo",
+          "title": "18.3 Gibbs Free Energy and the Relationship between Delta G, Delta H, & Delta S | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=bI9s4r7GjUo",
+          "thumbnail": "https://i.ytimg.com/vi/bI9s4r7GjUo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Y-1IJ6LZEb4",
+          "title": "18.4 Calculating Delta G, Delta H, & Delta S | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=Y-1IJ6LZEb4",
+          "thumbnail": "https://i.ytimg.com/vi/Y-1IJ6LZEb4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "fFu7nNHFGiw",
+          "title": "18.5 Gibbs Free Energy and the Equilibrium Constant | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=fFu7nNHFGiw",
+          "thumbnail": "https://i.ytimg.com/vi/fFu7nNHFGiw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "qlH4IhRyYs4",
+          "title": "19.1 How to Assign Oxidation Numbers | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=qlH4IhRyYs4",
+          "thumbnail": "https://i.ytimg.com/vi/qlH4IhRyYs4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "SZJ7vBd-gL0",
+          "title": "19.2 How to Balance Redox Reactions (Half-Reaction Method) | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=SZJ7vBd-gL0",
+          "thumbnail": "https://i.ytimg.com/vi/SZJ7vBd-gL0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "synIg0Orgr0",
+          "title": "19.3 Galvanic Cells | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=synIg0Orgr0",
+          "thumbnail": "https://i.ytimg.com/vi/synIg0Orgr0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "8Wpuz15eNOE",
+          "title": "19.3b Cell Notation & Cathodic Protection | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=8Wpuz15eNOE",
+          "thumbnail": "https://i.ytimg.com/vi/8Wpuz15eNOE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "1h5sKZf1qyY",
+          "title": "19.4 How to Calculate Standard Cell Potential | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=1h5sKZf1qyY",
+          "thumbnail": "https://i.ytimg.com/vi/1h5sKZf1qyY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Ma0TC3V9bdI",
+          "title": "19.5 How to Calculate Nonstandard Cell Potential [Nernst Equation] | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=Ma0TC3V9bdI",
+          "thumbnail": "https://i.ytimg.com/vi/Ma0TC3V9bdI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "99ybw59_Png",
+          "title": "19.5b Concentration Cells | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=99ybw59_Png",
+          "thumbnail": "https://i.ytimg.com/vi/99ybw59_Png/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "mszsarwSnkI",
+          "title": "19.6 Cell Potential, Delta G, and the Equilibrium Constant | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=mszsarwSnkI",
+          "thumbnail": "https://i.ytimg.com/vi/mszsarwSnkI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "zSy2wF-pwiw",
+          "title": "19.7 Electrolytic Cells | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=zSy2wF-pwiw",
+          "thumbnail": "https://i.ytimg.com/vi/zSy2wF-pwiw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "v7DHz18jvXU",
+          "title": "19.8 Electrolysis Calculations | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=v7DHz18jvXU",
+          "thumbnail": "https://i.ytimg.com/vi/v7DHz18jvXU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "_AWp5wedXiE",
+          "title": "20.1 Introduction to Nuclear Chemistry | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=_AWp5wedXiE",
+          "thumbnail": "https://i.ytimg.com/vi/_AWp5wedXiE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "i-E378NUNAg",
+          "title": "20.2 Balancing Nuclear Reactions | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=i-E378NUNAg",
+          "thumbnail": "https://i.ytimg.com/vi/i-E378NUNAg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "bPa8ThpcBdg",
+          "title": "20.3 Spontaneous Routes of Nuclear Decay, Fission, & Fusion | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=bPa8ThpcBdg",
+          "thumbnail": "https://i.ytimg.com/vi/bPa8ThpcBdg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "gqOhXfNyVLI",
+          "title": "20.4 Kinetics of Nuclear Decay | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=gqOhXfNyVLI",
+          "thumbnail": "https://i.ytimg.com/vi/gqOhXfNyVLI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "MnPJgXyXHW8",
+          "title": "20.5 Energy of Nuclear Reactions & Nuclear Binding Energy | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=MnPJgXyXHW8",
+          "thumbnail": "https://i.ytimg.com/vi/MnPJgXyXHW8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ORs9h88nl8Y",
+          "title": "21.1 Introduction to Coordination Chemistry | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=ORs9h88nl8Y",
+          "thumbnail": "https://i.ytimg.com/vi/ORs9h88nl8Y/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "0oRqBWZ4UyE",
+          "title": "21.2 Naming Complex Ions and Coordination Compounds | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=0oRqBWZ4UyE",
+          "thumbnail": "https://i.ytimg.com/vi/0oRqBWZ4UyE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "97EplXXNnV4",
+          "title": "21.3 Isomers in Coordination Chemistry | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=97EplXXNnV4",
+          "thumbnail": "https://i.ytimg.com/vi/97EplXXNnV4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "7SIhp9t57SY",
+          "title": "21.4 Crystal Field Theory | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=7SIhp9t57SY",
+          "thumbnail": "https://i.ytimg.com/vi/7SIhp9t57SY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ceyRpMw_RsY",
+          "title": "21.5 Color and Paramagnetism of Complex Ions and Coordination Compounds | General Chemistry",
+          "url": "https://www.youtube.com/watch?v=ceyRpMw_RsY",
+          "thumbnail": "https://i.ytimg.com/vi/ceyRpMw_RsY/hqdefault.jpg",
+          "watched": false
+        }
+      ]
+    },
+    {
+      "name": "Oxidation Reduction (Redox)",
+      "url": "https://www.youtube.com/playlist?list=PL3hPm0ZdYhyycIQ3TiRApJRTFPPEvJ1uX",
+      "videos": [
+        {
+          "id": "5rtJdjas-mY",
+          "title": "Introduction to Oxidation Reduction (Redox) Reactions",
+          "url": "https://www.youtube.com/watch?v=5rtJdjas-mY",
+          "thumbnail": "https://i.ytimg.com/vi/5rtJdjas-mY/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "JYc4Blcxmps",
+          "title": "The Oxidation Reduction Question that Tricks Everyone!",
+          "url": "https://www.youtube.com/watch?v=JYc4Blcxmps",
+          "thumbnail": "https://i.ytimg.com/vi/JYc4Blcxmps/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "kEJUYDHhuCg",
+          "title": "Oxidizing Agents and Reducing Agents",
+          "url": "https://www.youtube.com/watch?v=kEJUYDHhuCg",
+          "thumbnail": "https://i.ytimg.com/vi/kEJUYDHhuCg/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "-a2ckxhfDjQ",
+          "title": "How to Calculate Oxidation Numbers Introduction",
+          "url": "https://www.youtube.com/watch?v=-a2ckxhfDjQ",
+          "thumbnail": "https://i.ytimg.com/vi/-a2ckxhfDjQ/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "zpCy7KwqDO8",
+          "title": "How to Calculate Oxidation Number Practice Problems",
+          "url": "https://www.youtube.com/watch?v=zpCy7KwqDO8",
+          "thumbnail": "https://i.ytimg.com/vi/zpCy7KwqDO8/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "IZ1tKxsqV74",
+          "title": "How to Balance Redox Equations in Acidic Solution",
+          "url": "https://www.youtube.com/watch?v=IZ1tKxsqV74",
+          "thumbnail": "https://i.ytimg.com/vi/IZ1tKxsqV74/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "pESvgnP64ME",
+          "title": "How to Balance Redox Equations in Acidic Solution Example 1",
+          "url": "https://www.youtube.com/watch?v=pESvgnP64ME",
+          "thumbnail": "https://i.ytimg.com/vi/pESvgnP64ME/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "i9s9Qv4EcI0",
+          "title": "Balance Redox Equations in Acid Example 2 (Advanced)",
+          "url": "https://www.youtube.com/watch?v=i9s9Qv4EcI0",
+          "thumbnail": "https://i.ytimg.com/vi/i9s9Qv4EcI0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "v5sDNmYCaqo",
+          "title": "How to Balance Redox Equations in Basic Solution",
+          "url": "https://www.youtube.com/watch?v=v5sDNmYCaqo",
+          "thumbnail": "https://i.ytimg.com/vi/v5sDNmYCaqo/hqdefault.jpg",
+          "watched": true
+        }
+      ]
+    },
+    {
+      "name": "Crash Course: Biology",
+      "url": "https://www.youtube.com/playlist?list=PL8388TGpvh6I1zWak7Ye7NMA4hkt0y12h",
+      "videos": [
+        {
+          "id": "QnQe0xW_JY4",
           "title": "Carbon... SO SIMPLE: Crash Course Biology #1",
           "url": "https://www.youtube.com/watch?v=QnQe0xW_JY4",
           "thumbnail": "https://i.ytimg.com/vi/QnQe0xW_JY4/hqdefault.jpg",
           "watched": true
         },
         {
-          "id": 49,
+          "id": "HVT3Y3_gHGg",
           "title": "Water - Liquid Awesome: Crash Course Biology #2",
           "url": "https://www.youtube.com/watch?v=HVT3Y3_gHGg",
           "thumbnail": "https://i.ytimg.com/vi/HVT3Y3_gHGg/hqdefault.jpg",
-          "watched": true
+          "watched": false
         },
         {
-          "id": 50,
+          "id": "H8WJ2KENlK0",
           "title": "Biological Molecules - You Are What You Eat: Crash Course Biology #3",
           "url": "https://www.youtube.com/watch?v=H8WJ2KENlK0",
           "thumbnail": "https://i.ytimg.com/vi/H8WJ2KENlK0/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 51,
+          "id": "cj8dDTHGJBY",
           "title": "Eukaryopolis - The City of Animal Cells: Crash Course Biology #4",
           "url": "https://www.youtube.com/watch?v=cj8dDTHGJBY",
           "thumbnail": "https://i.ytimg.com/vi/cj8dDTHGJBY/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 52,
-          "title": "In Da Club - Membranes \u0026 Transport: Crash Course Biology #5",
+          "id": "dPKvHrD1eS4",
+          "title": "In Da Club - Membranes & Transport: Crash Course Biology #5",
           "url": "https://www.youtube.com/watch?v=dPKvHrD1eS4",
           "thumbnail": "https://i.ytimg.com/vi/dPKvHrD1eS4/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 53,
+          "id": "9UvlqAVCoqY",
           "title": "Plant Cells: Crash Course Biology #6",
           "url": "https://www.youtube.com/watch?v=9UvlqAVCoqY",
           "thumbnail": "https://i.ytimg.com/vi/9UvlqAVCoqY/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 54,
-          "title": "ATP \u0026 Respiration: Crash Course Biology #7",
+          "id": "00jbG_cfGuQ",
+          "title": "ATP & Respiration: Crash Course Biology #7",
           "url": "https://www.youtube.com/watch?v=00jbG_cfGuQ",
           "thumbnail": "https://i.ytimg.com/vi/00jbG_cfGuQ/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 55,
+          "id": "sQK3Yr4Sc_k",
           "title": "Photosynthesis: Crash Course Biology #8",
           "url": "https://www.youtube.com/watch?v=sQK3Yr4Sc_k",
           "thumbnail": "https://i.ytimg.com/vi/sQK3Yr4Sc_k/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 56,
+          "id": "CBezq1fFUEA",
           "title": "Heredity: Crash Course Biology #9",
           "url": "https://www.youtube.com/watch?v=CBezq1fFUEA",
           "thumbnail": "https://i.ytimg.com/vi/CBezq1fFUEA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 57,
+          "id": "8kK2zwjRV0M",
           "title": "DNA Structure and Replication: Crash Course Biology #10",
           "url": "https://www.youtube.com/watch?v=8kK2zwjRV0M",
           "thumbnail": "https://i.ytimg.com/vi/8kK2zwjRV0M/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 58,
-          "title": "DNA, Hot Pockets, \u0026 The Longest Word Ever: Crash Course Biology #11",
+          "id": "itsb2SqR-R0",
+          "title": "DNA, Hot Pockets, & The Longest Word Ever: Crash Course Biology #11",
           "url": "https://www.youtube.com/watch?v=itsb2SqR-R0",
           "thumbnail": "https://i.ytimg.com/vi/itsb2SqR-R0/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 59,
+          "id": "L0k-enzoeOM",
           "title": "Mitosis: Splitting Up is Complicated - Crash Course Biology #12",
           "url": "https://www.youtube.com/watch?v=L0k-enzoeOM",
           "thumbnail": "https://i.ytimg.com/vi/L0k-enzoeOM/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 60,
+          "id": "qCLmR9-YY7o",
           "title": "Meiosis: Where the Sex Starts - Crash Course Biology #13",
           "url": "https://www.youtube.com/watch?v=qCLmR9-YY7o",
           "thumbnail": "https://i.ytimg.com/vi/qCLmR9-YY7o/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 61,
+          "id": "aTftyFboC_M",
           "title": "Natural Selection - Crash Course Biology #14",
           "url": "https://www.youtube.com/watch?v=aTftyFboC_M",
           "thumbnail": "https://i.ytimg.com/vi/aTftyFboC_M/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 62,
-          "title": "Speciation: Of Ligers \u0026 Men - Crash Course Biology #15",
+          "id": "2oKlKmrbLoU",
+          "title": "Speciation: Of Ligers & Men - Crash Course Biology #15",
           "url": "https://www.youtube.com/watch?v=2oKlKmrbLoU",
           "thumbnail": "https://i.ytimg.com/vi/2oKlKmrbLoU/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 63,
+          "id": "k_9MTZgAhv0",
           "title": "Animal Development: We're Just Tubes - Crash Course Biology #16",
           "url": "https://www.youtube.com/watch?v=k_9MTZgAhv0",
           "thumbnail": "https://i.ytimg.com/vi/k_9MTZgAhv0/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 64,
+          "id": "9sjwlxQ_6LI",
           "title": "Evolutionary Development: Chicken Teeth - Crash Course Biology #17",
           "url": "https://www.youtube.com/watch?v=9sjwlxQ_6LI",
           "thumbnail": "https://i.ytimg.com/vi/9sjwlxQ_6LI/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 65,
+          "id": "WhFKPaRnTdQ",
           "title": "Population Genetics: When Darwin Met Mendel - Crash Course Biology #18",
           "url": "https://www.youtube.com/watch?v=WhFKPaRnTdQ",
           "thumbnail": "https://i.ytimg.com/vi/WhFKPaRnTdQ/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 66,
+          "id": "F38BmgPcZ_I",
           "title": "Taxonomy: Life's Filing System - Crash Course Biology #19",
           "url": "https://www.youtube.com/watch?v=F38BmgPcZ_I",
           "thumbnail": "https://i.ytimg.com/vi/F38BmgPcZ_I/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 67,
+          "id": "P3GagfbA2vo",
           "title": "Evolution: It's a Thing - Crash Course Biology #20",
           "url": "https://www.youtube.com/watch?v=P3GagfbA2vo",
           "thumbnail": "https://i.ytimg.com/vi/P3GagfbA2vo/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 68,
+          "id": "7ABSjKS0hic",
           "title": "Comparative Anatomy: What Makes Us Animals - Crash Course Biology #21",
           "url": "https://www.youtube.com/watch?v=7ABSjKS0hic",
           "thumbnail": "https://i.ytimg.com/vi/7ABSjKS0hic/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 69,
-          "title": "Simple Animals: Sponges, Jellies, \u0026 Octopuses - Crash Course Biology #22",
+          "id": "tIfsHPpkSPs",
+          "title": "Simple Animals: Sponges, Jellies, & Octopuses - Crash Course Biology #22",
           "url": "https://www.youtube.com/watch?v=tIfsHPpkSPs",
           "thumbnail": "https://i.ytimg.com/vi/tIfsHPpkSPs/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 70,
-          "title": "Complex Animals: Annelids \u0026 Arthropods - CrashCourse Biology #23",
+          "id": "YQb7Xq0enTI",
+          "title": "Complex Animals: Annelids & Arthropods - CrashCourse Biology #23",
           "url": "https://www.youtube.com/watch?v=YQb7Xq0enTI",
           "thumbnail": "https://i.ytimg.com/vi/YQb7Xq0enTI/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 71,
+          "id": "kgZRZmEc9j4",
           "title": "Chordates - CrashCourse Biology #24",
           "url": "https://www.youtube.com/watch?v=kgZRZmEc9j4",
           "thumbnail": "https://i.ytimg.com/vi/kgZRZmEc9j4/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 72,
+          "id": "EyyDq19Mi3A",
           "title": "Animal Behavior - CrashCourse Biology #25",
           "url": "https://www.youtube.com/watch?v=EyyDq19Mi3A",
           "thumbnail": "https://i.ytimg.com/vi/EyyDq19Mi3A/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 73,
+          "id": "x4PPZCLnVkA",
           "title": "The Nervous System - CrashCourse Biology #26",
           "url": "https://www.youtube.com/watch?v=x4PPZCLnVkA",
           "thumbnail": "https://i.ytimg.com/vi/x4PPZCLnVkA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 74,
-          "title": "Circulatory \u0026 Respiratory Systems - CrashCourse Biology #27",
+          "id": "9fxm85Fy4sQ",
+          "title": "Circulatory & Respiratory Systems - CrashCourse Biology #27",
           "url": "https://www.youtube.com/watch?v=9fxm85Fy4sQ",
           "thumbnail": "https://i.ytimg.com/vi/9fxm85Fy4sQ/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 75,
+          "id": "s06XzaKqELk",
           "title": "The Digestive System: CrashCourse Biology #28",
           "url": "https://www.youtube.com/watch?v=s06XzaKqELk",
           "thumbnail": "https://i.ytimg.com/vi/s06XzaKqELk/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 76,
-          "title": "The Excretory System: From Your Heart to the Toilet - CrashCourse Biology #29",
+          "id": "WtrYotjYvtU",
+          "title": "The Excretory System: From Your Heart to the Toilet -  CrashCourse Biology #29",
           "url": "https://www.youtube.com/watch?v=WtrYotjYvtU",
           "thumbnail": "https://i.ytimg.com/vi/WtrYotjYvtU/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 77,
+          "id": "RW46rQKWa-g",
           "title": "The Skeletal System: It's ALIVE! - CrashCourse Biology #30",
           "url": "https://www.youtube.com/watch?v=RW46rQKWa-g",
           "thumbnail": "https://i.ytimg.com/vi/RW46rQKWa-g/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 78,
+          "id": "jqy0i1KXUO4",
           "title": "Big Guns: The Muscular System - CrashCourse Biology #31",
           "url": "https://www.youtube.com/watch?v=jqy0i1KXUO4",
           "thumbnail": "https://i.ytimg.com/vi/jqy0i1KXUO4/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 79,
+          "id": "CeVtPDjJBPU",
           "title": "Your Immune System: Natural Born Killer - Crash Course Biology #32",
           "url": "https://www.youtube.com/watch?v=CeVtPDjJBPU",
           "thumbnail": "https://i.ytimg.com/vi/CeVtPDjJBPU/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 80,
+          "id": "WVrlHH14q3o",
           "title": "Great Glands - Your Endocrine System: CrashCourse Biology #33",
           "url": "https://www.youtube.com/watch?v=WVrlHH14q3o",
           "thumbnail": "https://i.ytimg.com/vi/WVrlHH14q3o/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 81,
+          "id": "_7rsH2loIY8",
           "title": "The Reproductive System: How Gonads Go - CrashCourse Biology #34",
           "url": "https://www.youtube.com/watch?v=_7rsH2loIY8",
           "thumbnail": "https://i.ytimg.com/vi/_7rsH2loIY8/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 82,
-          "title": "Old \u0026 Odd: Archaea, Bacteria \u0026 Protists - CrashCourse Biology #35",
+          "id": "vAR47-g6tlA",
+          "title": "Old & Odd: Archaea, Bacteria & Protists - CrashCourse Biology #35",
           "url": "https://www.youtube.com/watch?v=vAR47-g6tlA",
           "thumbnail": "https://i.ytimg.com/vi/vAR47-g6tlA/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 83,
+          "id": "iWaX97p6y9U",
           "title": "The Reproductive Lives of Nonvascular Plants: Alternation of Generations - Crash Course Biology #36",
           "url": "https://www.youtube.com/watch?v=iWaX97p6y9U",
           "thumbnail": "https://i.ytimg.com/vi/iWaX97p6y9U/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 84,
+          "id": "h9oDTMXM7M8",
           "title": "Vascular Plants = Winning! - Crash Course Biology #37",
           "url": "https://www.youtube.com/watch?v=h9oDTMXM7M8",
           "thumbnail": "https://i.ytimg.com/vi/h9oDTMXM7M8/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 85,
-          "title": "The Plants \u0026 The Bees: Plant Reproduction - CrashCourse Biology #38",
+          "id": "ExaQ8shhkw8",
+          "title": "The Plants & The Bees: Plant Reproduction - CrashCourse Biology #38",
           "url": "https://www.youtube.com/watch?v=ExaQ8shhkw8",
           "thumbnail": "https://i.ytimg.com/vi/ExaQ8shhkw8/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 86,
+          "id": "m4DUZhnNo4s",
           "title": "Fungi: Death Becomes Them - CrashCourse Biology #39",
           "url": "https://www.youtube.com/watch?v=m4DUZhnNo4s",
           "thumbnail": "https://i.ytimg.com/vi/m4DUZhnNo4s/hqdefault.jpg",
           "watched": false
         },
         {
-          "id": 87,
+          "id": "izRvPaAWgyw",
           "title": "Ecology - Rules for Living on Earth: Crash Course Biology #40",
           "url": "https://www.youtube.com/watch?v=izRvPaAWgyw",
           "thumbnail": "https://i.ytimg.com/vi/izRvPaAWgyw/hqdefault.jpg",
           "watched": false
         }
-      ],
-      "progress": {
-        "totalVideos": 40,
-        "watchedVideos": 0,
-        "percentage": 0
-      }
+      ]
+    },
+    {
+      "name": "Chemistry Matters",
+      "url": "https://www.youtube.com/playlist?list=PLR3IJD4eYfwTt6lZxeiiCDbABcukAr9wr",
+      "videos": [
+        {
+          "id": "CsnOmf9_1yc",
+          "title": "Welcome to Chemistry Matters",
+          "url": "https://www.youtube.com/watch?v=CsnOmf9_1yc",
+          "thumbnail": "https://i.ytimg.com/vi/CsnOmf9_1yc/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "ED0Nx5GARA4",
+          "title": "Atoms: What do atoms look like? How do we know?",
+          "url": "https://www.youtube.com/watch?v=ED0Nx5GARA4",
+          "thumbnail": "https://i.ytimg.com/vi/ED0Nx5GARA4/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "waOJ7KSJ1b8",
+          "title": "Why do atoms emit visible light when they’re excited? And why only light of certain wavelengths?",
+          "url": "https://www.youtube.com/watch?v=waOJ7KSJ1b8",
+          "thumbnail": "https://i.ytimg.com/vi/waOJ7KSJ1b8/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "Ig5DXsmxIUM",
+          "title": "Equations: What is dimensional analysis and how is it going to help you pass your exams?",
+          "url": "https://www.youtube.com/watch?v=Ig5DXsmxIUM",
+          "thumbnail": "https://i.ytimg.com/vi/Ig5DXsmxIUM/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "ecYSJ5h6hgw",
+          "title": "The Mole: The most important concept in Chemistry | Part 1. What is a mole?",
+          "url": "https://www.youtube.com/watch?v=ecYSJ5h6hgw",
+          "thumbnail": "https://i.ytimg.com/vi/ecYSJ5h6hgw/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "5Bni7_CqO24",
+          "title": "The Mole: The most important concept in Chemistry | Part 2. You need to know this equation.",
+          "url": "https://www.youtube.com/watch?v=5Bni7_CqO24",
+          "thumbnail": "https://i.ytimg.com/vi/5Bni7_CqO24/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "Lma58IgCvPI",
+          "title": "Stoichiometry | Part 1. Balanced chemical equations and mole ratios",
+          "url": "https://www.youtube.com/watch?v=Lma58IgCvPI",
+          "thumbnail": "https://i.ytimg.com/vi/Lma58IgCvPI/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "p3pxmmSObBc",
+          "title": "Stoichiometry | Part 2",
+          "url": "https://www.youtube.com/watch?v=p3pxmmSObBc",
+          "thumbnail": "https://i.ytimg.com/vi/p3pxmmSObBc/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "RRUdJU_i3F0",
+          "title": "Stoichiometry Problems | Part 1",
+          "url": "https://www.youtube.com/watch?v=RRUdJU_i3F0",
+          "thumbnail": "https://i.ytimg.com/vi/RRUdJU_i3F0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "KdHwr66h5y0",
+          "title": "Stoichiometry Problems | Part 2",
+          "url": "https://www.youtube.com/watch?v=KdHwr66h5y0",
+          "thumbnail": "https://i.ytimg.com/vi/KdHwr66h5y0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "lHndwJqkifo",
+          "title": "Limiting reagents: Part 1. What happens when your mole ratios are wrong?",
+          "url": "https://www.youtube.com/watch?v=lHndwJqkifo",
+          "thumbnail": "https://i.ytimg.com/vi/lHndwJqkifo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "UwnS0KGP8g8",
+          "title": "Limiting reagents: Part 2. How much of which reactant is left over?",
+          "url": "https://www.youtube.com/watch?v=UwnS0KGP8g8",
+          "thumbnail": "https://i.ytimg.com/vi/UwnS0KGP8g8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "iC-JJ6KOLUM",
+          "title": "Solution Stoichiometry | Part 1: Concentration in mol L-1",
+          "url": "https://www.youtube.com/watch?v=iC-JJ6KOLUM",
+          "thumbnail": "https://i.ytimg.com/vi/iC-JJ6KOLUM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "miiDcTmOR04",
+          "title": "Solution Stoichiometry | Part 2. Dilution",
+          "url": "https://www.youtube.com/watch?v=miiDcTmOR04",
+          "thumbnail": "https://i.ytimg.com/vi/miiDcTmOR04/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "7EEJrnuyl2c",
+          "title": "Solution Stoichiometry | Part 3. Precipitates from solutions",
+          "url": "https://www.youtube.com/watch?v=7EEJrnuyl2c",
+          "thumbnail": "https://i.ytimg.com/vi/7EEJrnuyl2c/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ZGWgkWyl0FI",
+          "title": "Lewis Structures: Where do we put all those electrons?",
+          "url": "https://www.youtube.com/watch?v=ZGWgkWyl0FI",
+          "thumbnail": "https://i.ytimg.com/vi/ZGWgkWyl0FI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Eis_W39VuYY",
+          "title": "What are quantum numbers, what are their allowed values, and why do you need to know about them?",
+          "url": "https://www.youtube.com/watch?v=Eis_W39VuYY",
+          "thumbnail": "https://i.ytimg.com/vi/Eis_W39VuYY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "P8spdNhHOkA",
+          "title": "The ideal gas equation: pV = nRT",
+          "url": "https://www.youtube.com/watch?v=P8spdNhHOkA",
+          "thumbnail": "https://i.ytimg.com/vi/P8spdNhHOkA/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "H9gz1z7T_vg",
+          "title": "Balancing redox equations",
+          "url": "https://www.youtube.com/watch?v=H9gz1z7T_vg",
+          "thumbnail": "https://i.ytimg.com/vi/H9gz1z7T_vg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "8A47dTQnrY8",
+          "title": "Titrations",
+          "url": "https://www.youtube.com/watch?v=8A47dTQnrY8",
+          "thumbnail": "https://i.ytimg.com/vi/8A47dTQnrY8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "r7kSk8Mjt_A",
+          "title": "Empirical (Simplest) formula",
+          "url": "https://www.youtube.com/watch?v=r7kSk8Mjt_A",
+          "thumbnail": "https://i.ytimg.com/vi/r7kSk8Mjt_A/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Mg3ioFzJCQk",
+          "title": "In The Lab: Pipettes, old and new.",
+          "url": "https://www.youtube.com/watch?v=Mg3ioFzJCQk",
+          "thumbnail": "https://i.ytimg.com/vi/Mg3ioFzJCQk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "9xQxA5PHrA4",
+          "title": "In The Lab: Volumetric flasks and the preparation of solutions",
+          "url": "https://www.youtube.com/watch?v=9xQxA5PHrA4",
+          "thumbnail": "https://i.ytimg.com/vi/9xQxA5PHrA4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "WAXPw-7aTnw",
+          "title": "In The Lab: How to do a titration – properly.",
+          "url": "https://www.youtube.com/watch?v=WAXPw-7aTnw",
+          "thumbnail": "https://i.ytimg.com/vi/WAXPw-7aTnw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "QuTilsTbmeo",
+          "title": "In The Lab: How to set up and carry out a distillation",
+          "url": "https://www.youtube.com/watch?v=QuTilsTbmeo",
+          "thumbnail": "https://i.ytimg.com/vi/QuTilsTbmeo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "c-Wl987JIOw",
+          "title": "In The Lab: Point that thing somewhere else – how to use a separating funnel",
+          "url": "https://www.youtube.com/watch?v=c-Wl987JIOw",
+          "thumbnail": "https://i.ytimg.com/vi/c-Wl987JIOw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "zBilCEDcfnw",
+          "title": "Thermodynamics: The Basics",
+          "url": "https://www.youtube.com/watch?v=zBilCEDcfnw",
+          "thumbnail": "https://i.ytimg.com/vi/zBilCEDcfnw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Xq6wMwycXfQ",
+          "title": "Thermodynamics: Enthalpy - Heat by Another Name",
+          "url": "https://www.youtube.com/watch?v=Xq6wMwycXfQ",
+          "thumbnail": "https://i.ytimg.com/vi/Xq6wMwycXfQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "bVp4veygUiI",
+          "title": "Thermodynamics: Standard Enthalpy of Formation",
+          "url": "https://www.youtube.com/watch?v=bVp4veygUiI",
+          "thumbnail": "https://i.ytimg.com/vi/bVp4veygUiI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Mk13FYGQa7E",
+          "title": "Thermodynamics: Entropy - What is it?",
+          "url": "https://www.youtube.com/watch?v=Mk13FYGQa7E",
+          "thumbnail": "https://i.ytimg.com/vi/Mk13FYGQa7E/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "aDkAlQl-4Xo",
+          "title": "Thermodynamics: Gibbs Energy",
+          "url": "https://www.youtube.com/watch?v=aDkAlQl-4Xo",
+          "thumbnail": "https://i.ytimg.com/vi/aDkAlQl-4Xo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "C5vnLOQJpvc",
+          "title": "Valence Bond Theory: sp³ Hybrid Orbitals",
+          "url": "https://www.youtube.com/watch?v=C5vnLOQJpvc",
+          "thumbnail": "https://i.ytimg.com/vi/C5vnLOQJpvc/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ERx62x4DXIs",
+          "title": "Valence Bond Theory: sp³ and sp Hybrid Orbitals",
+          "url": "https://www.youtube.com/watch?v=ERx62x4DXIs",
+          "thumbnail": "https://i.ytimg.com/vi/ERx62x4DXIs/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "9Lwr-kDL8yM",
+          "title": "States of Matter: Solids, Liguids and Gasses",
+          "url": "https://www.youtube.com/watch?v=9Lwr-kDL8yM",
+          "thumbnail": "https://i.ytimg.com/vi/9Lwr-kDL8yM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "EDr1durPguQ",
+          "title": "States of Matter: Phase Diagrams",
+          "url": "https://www.youtube.com/watch?v=EDr1durPguQ",
+          "thumbnail": "https://i.ytimg.com/vi/EDr1durPguQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "b-GBGbWbQ_U",
+          "title": "Equilibrium: The Basics",
+          "url": "https://www.youtube.com/watch?v=b-GBGbWbQ_U",
+          "thumbnail": "https://i.ytimg.com/vi/b-GBGbWbQ_U/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "oVbkoKzJal8",
+          "title": "Equilibrium:▲G° and K",
+          "url": "https://www.youtube.com/watch?v=oVbkoKzJal8",
+          "thumbnail": "https://i.ytimg.com/vi/oVbkoKzJal8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "S6NY50SBh1Q",
+          "title": "Equilibrium: Changing the Equilibrium Variables",
+          "url": "https://www.youtube.com/watch?v=S6NY50SBh1Q",
+          "thumbnail": "https://i.ytimg.com/vi/S6NY50SBh1Q/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "LfjYIieCig0",
+          "title": "Equilibrium Calculations 1: Concentration (Ice) Tables",
+          "url": "https://www.youtube.com/watch?v=LfjYIieCig0",
+          "thumbnail": "https://i.ytimg.com/vi/LfjYIieCig0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "AlI6a0AbXVU",
+          "title": "Equilibrium Calculations 2: More Concentration (Ice) Tables",
+          "url": "https://www.youtube.com/watch?v=AlI6a0AbXVU",
+          "thumbnail": "https://i.ytimg.com/vi/AlI6a0AbXVU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "WUAdiFPBwYw",
+          "title": "Acids and Bases: The Basics",
+          "url": "https://www.youtube.com/watch?v=WUAdiFPBwYw",
+          "thumbnail": "https://i.ytimg.com/vi/WUAdiFPBwYw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "x20vHGrEsSw",
+          "title": "Acids and Bases: Strong Aids and Strong Bases",
+          "url": "https://www.youtube.com/watch?v=x20vHGrEsSw",
+          "thumbnail": "https://i.ytimg.com/vi/x20vHGrEsSw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "NdYPCSgrH5I",
+          "title": "Acids and Bases: Weak Acids and Weak Bases",
+          "url": "https://www.youtube.com/watch?v=NdYPCSgrH5I",
+          "thumbnail": "https://i.ytimg.com/vi/NdYPCSgrH5I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Oq2x4ILf-IQ",
+          "title": "Acids and Bases: Calculations Involving Weak Acids and Weak Bases",
+          "url": "https://www.youtube.com/watch?v=Oq2x4ILf-IQ",
+          "thumbnail": "https://i.ytimg.com/vi/Oq2x4ILf-IQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "xBdAMsZgTg8",
+          "title": "Acids and Bases: Buffer Solutions 1",
+          "url": "https://www.youtube.com/watch?v=xBdAMsZgTg8",
+          "thumbnail": "https://i.ytimg.com/vi/xBdAMsZgTg8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "KyPFm7_rQio",
+          "title": "Acids and Bases: Buffer Solutions 2",
+          "url": "https://www.youtube.com/watch?v=KyPFm7_rQio",
+          "thumbnail": "https://i.ytimg.com/vi/KyPFm7_rQio/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "BssT9vDt4og",
+          "title": "Acids and Bases: Acid-Base Titrations",
+          "url": "https://www.youtube.com/watch?v=BssT9vDt4og",
+          "thumbnail": "https://i.ytimg.com/vi/BssT9vDt4og/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "aVdoNz3ywlo",
+          "title": "Equilibrium: The Solubility Product",
+          "url": "https://www.youtube.com/watch?v=aVdoNz3ywlo",
+          "thumbnail": "https://i.ytimg.com/vi/aVdoNz3ywlo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "kBFPFbs-sUk",
+          "title": "Equilibrium: The Solubility Product - Will we get a precipitate?",
+          "url": "https://www.youtube.com/watch?v=kBFPFbs-sUk",
+          "thumbnail": "https://i.ytimg.com/vi/kBFPFbs-sUk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "x5fCFVeEp7o",
+          "title": "Chemical Kinetics: The Slope of a Graph",
+          "url": "https://www.youtube.com/watch?v=x5fCFVeEp7o",
+          "thumbnail": "https://i.ytimg.com/vi/x5fCFVeEp7o/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "qXDSaRKT1SE",
+          "title": "Chemical Kinetics: What is a rate?",
+          "url": "https://www.youtube.com/watch?v=qXDSaRKT1SE",
+          "thumbnail": "https://i.ytimg.com/vi/qXDSaRKT1SE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Z3itryADZCc",
+          "title": "Chemical Kinetics: The Rate Law",
+          "url": "https://www.youtube.com/watch?v=Z3itryADZCc",
+          "thumbnail": "https://i.ytimg.com/vi/Z3itryADZCc/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "8QJ8XpEW5d4",
+          "title": "Electrochemistry: Electrochemical Cells",
+          "url": "https://www.youtube.com/watch?v=8QJ8XpEW5d4",
+          "thumbnail": "https://i.ytimg.com/vi/8QJ8XpEW5d4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "3cWlzJAVeHo",
+          "title": "Electrochemistry: Quantifying Electrochemical Reactions",
+          "url": "https://www.youtube.com/watch?v=3cWlzJAVeHo",
+          "thumbnail": "https://i.ytimg.com/vi/3cWlzJAVeHo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "V00qom_opbQ",
+          "title": "Electrochemistry: Which Redox Reaction is Spontaneous?",
+          "url": "https://www.youtube.com/watch?v=V00qom_opbQ",
+          "thumbnail": "https://i.ytimg.com/vi/V00qom_opbQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "XnnXQ-oTLng",
+          "title": "Organic Chemistry: The Fundamentals of Carbon Chemistry",
+          "url": "https://www.youtube.com/watch?v=XnnXQ-oTLng",
+          "thumbnail": "https://i.ytimg.com/vi/XnnXQ-oTLng/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "HO1aHXgnjXI",
+          "title": "Organic Chemistry: Representing Organic Molecules",
+          "url": "https://www.youtube.com/watch?v=HO1aHXgnjXI",
+          "thumbnail": "https://i.ytimg.com/vi/HO1aHXgnjXI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "XhrWgV5n73w",
+          "title": "Organic Chemistry: Naming Organic Compounds | Part 1",
+          "url": "https://www.youtube.com/watch?v=XhrWgV5n73w",
+          "thumbnail": "https://i.ytimg.com/vi/XhrWgV5n73w/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "jPEWVTM7uG0",
+          "title": "Organic Chemistry: Naming Organic Compounds | Part 2",
+          "url": "https://www.youtube.com/watch?v=jPEWVTM7uG0",
+          "thumbnail": "https://i.ytimg.com/vi/jPEWVTM7uG0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "1zmfR8kyV1I",
+          "title": "Organic Chemistry: Naming Organic Compounds | Part 3",
+          "url": "https://www.youtube.com/watch?v=1zmfR8kyV1I",
+          "thumbnail": "https://i.ytimg.com/vi/1zmfR8kyV1I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "748X4iMEMos",
+          "title": "Organic Chemistry: Constitutional Isomers",
+          "url": "https://www.youtube.com/watch?v=748X4iMEMos",
+          "thumbnail": "https://i.ytimg.com/vi/748X4iMEMos/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "MFKTKX8YnBs",
+          "title": "Organic Chemistry: Stereoisomers",
+          "url": "https://www.youtube.com/watch?v=MFKTKX8YnBs",
+          "thumbnail": "https://i.ytimg.com/vi/MFKTKX8YnBs/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "aKrONalUv2I",
+          "title": "Organic Chemistry: R and S Enantiomers",
+          "url": "https://www.youtube.com/watch?v=aKrONalUv2I",
+          "thumbnail": "https://i.ytimg.com/vi/aKrONalUv2I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "aG3p2F7j0as",
+          "title": "Organic Chemistry: Molecules With More Than One Stereocentre | Part 1",
+          "url": "https://www.youtube.com/watch?v=aG3p2F7j0as",
+          "thumbnail": "https://i.ytimg.com/vi/aG3p2F7j0as/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "UfJVyI33m-Y",
+          "title": "Organic Chemistry: Molecules With More Than One Stereocentre | Part 2",
+          "url": "https://www.youtube.com/watch?v=UfJVyI33m-Y",
+          "thumbnail": "https://i.ytimg.com/vi/UfJVyI33m-Y/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Tz0DK8uG_VU",
+          "title": "Organic Chemistry: Fischer Projections",
+          "url": "https://www.youtube.com/watch?v=Tz0DK8uG_VU",
+          "thumbnail": "https://i.ytimg.com/vi/Tz0DK8uG_VU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "0sIZJEcctc4",
+          "title": "Organic Chemistry: Carbohydrates",
+          "url": "https://www.youtube.com/watch?v=0sIZJEcctc4",
+          "thumbnail": "https://i.ytimg.com/vi/0sIZJEcctc4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "pFlLyhCJL5c",
+          "title": "Organic Chemistry: Cyclohexane",
+          "url": "https://www.youtube.com/watch?v=pFlLyhCJL5c",
+          "thumbnail": "https://i.ytimg.com/vi/pFlLyhCJL5c/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "A3XeqU4fGpo",
+          "title": "Organic Chemistry: Mechanistic Arrows",
+          "url": "https://www.youtube.com/watch?v=A3XeqU4fGpo",
+          "thumbnail": "https://i.ytimg.com/vi/A3XeqU4fGpo/hqdefault.jpg",
+          "watched": false
+        }
+      ]
+    },
+    {
+      "name": "Crash Course: Anatomy & Physiology",
+      "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8",
+      "videos": [
+        {
+          "id": "pVkUCrgQCCc",
+          "title": "Crash Course Anatomy & Physiology Preview",
+          "url": "https://www.youtube.com/watch?v=pVkUCrgQCCc",
+          "thumbnail": "https://i.ytimg.com/vi/pVkUCrgQCCc/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "uBGl2BujkPQ",
+          "title": "Introduction to Anatomy & Physiology: Crash Course Anatomy & Physiology #1",
+          "url": "https://www.youtube.com/watch?v=uBGl2BujkPQ",
+          "thumbnail": "https://i.ytimg.com/vi/uBGl2BujkPQ/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "id": "i5tR3csCWYo",
+          "title": "Tissues, Part 1: Crash Course Anatomy & Physiology #2",
+          "url": "https://www.youtube.com/watch?v=i5tR3csCWYo",
+          "thumbnail": "https://i.ytimg.com/vi/i5tR3csCWYo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "lUe_RI_m-Vg",
+          "title": "Tissues, Part 2 - Epithelial Tissue: Crash Course Anatomy & Physiology #3",
+          "url": "https://www.youtube.com/watch?v=lUe_RI_m-Vg",
+          "thumbnail": "https://i.ytimg.com/vi/lUe_RI_m-Vg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "D-SzmURNBH0",
+          "title": "Tissues, Part 3 - Connective Tissues: Crash Course Anatomy & Physiology #4",
+          "url": "https://www.youtube.com/watch?v=D-SzmURNBH0",
+          "thumbnail": "https://i.ytimg.com/vi/D-SzmURNBH0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Jvtb0a2RXaY",
+          "title": "Tissues, Part 4 - Types of Connective Tissues: Crash Course Anatomy & Physiology #5",
+          "url": "https://www.youtube.com/watch?v=Jvtb0a2RXaY",
+          "thumbnail": "https://i.ytimg.com/vi/Jvtb0a2RXaY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Orumw-PyNjw",
+          "title": "The Integumentary System, Part 1 - Skin Deep: Crash Course Anatomy & Physiology #6",
+          "url": "https://www.youtube.com/watch?v=Orumw-PyNjw",
+          "thumbnail": "https://i.ytimg.com/vi/Orumw-PyNjw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "EN-x-zXXVwQ",
+          "title": "The Integumentary System, Part 2 - Skin Deeper: Crash Course Anatomy & Physiology #7",
+          "url": "https://www.youtube.com/watch?v=EN-x-zXXVwQ",
+          "thumbnail": "https://i.ytimg.com/vi/EN-x-zXXVwQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "qPix_X-9t7E",
+          "title": "The Nervous System, Part 1: Crash Course Anatomy & Physiology #8",
+          "url": "https://www.youtube.com/watch?v=qPix_X-9t7E",
+          "thumbnail": "https://i.ytimg.com/vi/qPix_X-9t7E/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "OZG8M_ldA1M",
+          "title": "The Nervous System, Part 2 - Action! Potential!: Crash Course Anatomy & Physiology #9",
+          "url": "https://www.youtube.com/watch?v=OZG8M_ldA1M",
+          "thumbnail": "https://i.ytimg.com/vi/OZG8M_ldA1M/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "VitFvNvRIIY",
+          "title": "The Nervous System, Part 3 - Synapses!: Crash Course Anatomy & Physiology #10",
+          "url": "https://www.youtube.com/watch?v=VitFvNvRIIY",
+          "thumbnail": "https://i.ytimg.com/vi/VitFvNvRIIY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "q8NtmDrb_qo",
+          "title": "Central Nervous System: Crash Course Anatomy & Physiology #11",
+          "url": "https://www.youtube.com/watch?v=q8NtmDrb_qo",
+          "thumbnail": "https://i.ytimg.com/vi/q8NtmDrb_qo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "QY9NTVh-Awo",
+          "title": "Peripheral Nervous System: Crash Course Anatomy & Physiology #12",
+          "url": "https://www.youtube.com/watch?v=QY9NTVh-Awo",
+          "thumbnail": "https://i.ytimg.com/vi/QY9NTVh-Awo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "71pCilo8k4M",
+          "title": "Autonomic Nervous System: Crash Course Anatomy & Physiology #13",
+          "url": "https://www.youtube.com/watch?v=71pCilo8k4M",
+          "thumbnail": "https://i.ytimg.com/vi/71pCilo8k4M/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "0IDgBlCHVsA",
+          "title": "Sympathetic Nervous System: Crash Course Anatomy & Physiology #14",
+          "url": "https://www.youtube.com/watch?v=0IDgBlCHVsA",
+          "thumbnail": "https://i.ytimg.com/vi/0IDgBlCHVsA/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "qqU-VjqjczE",
+          "title": "Parasympathetic Nervous System: Crash Course Anatomy & Physiology #15",
+          "url": "https://www.youtube.com/watch?v=qqU-VjqjczE",
+          "thumbnail": "https://i.ytimg.com/vi/qqU-VjqjczE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "mFm3yA1nslE",
+          "title": "Taste & Smell: Crash Course Anatomy & Physiology #16",
+          "url": "https://www.youtube.com/watch?v=mFm3yA1nslE",
+          "thumbnail": "https://i.ytimg.com/vi/mFm3yA1nslE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Ie2j7GpC4JU",
+          "title": "Hearing & Balance: Crash Course Anatomy & Physiology #17",
+          "url": "https://www.youtube.com/watch?v=Ie2j7GpC4JU",
+          "thumbnail": "https://i.ytimg.com/vi/Ie2j7GpC4JU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "o0DYP-u1rNM",
+          "title": "Vision: Crash Course Anatomy & Physiology #18",
+          "url": "https://www.youtube.com/watch?v=o0DYP-u1rNM",
+          "thumbnail": "https://i.ytimg.com/vi/o0DYP-u1rNM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "rDGqkMHPDqE",
+          "title": "The Skeletal System: Crash Course Anatomy & Physiology #19",
+          "url": "https://www.youtube.com/watch?v=rDGqkMHPDqE",
+          "thumbnail": "https://i.ytimg.com/vi/rDGqkMHPDqE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "DLxYDoN634c",
+          "title": "Joints: Crash Course Anatomy & Physiology #20",
+          "url": "https://www.youtube.com/watch?v=DLxYDoN634c",
+          "thumbnail": "https://i.ytimg.com/vi/DLxYDoN634c/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Ktv-CaOt6UQ",
+          "title": "Muscles, Part 1 - Muscle Cells: Crash Course Anatomy & Physiology #21",
+          "url": "https://www.youtube.com/watch?v=Ktv-CaOt6UQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ktv-CaOt6UQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "I80Xx7pA9hQ",
+          "title": "Muscles, Part 2 - Organismal Level: Crash Course Anatomy & Physiology #22",
+          "url": "https://www.youtube.com/watch?v=I80Xx7pA9hQ",
+          "thumbnail": "https://i.ytimg.com/vi/I80Xx7pA9hQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "eWHH9je2zG4",
+          "title": "Endocrine System, Part 1 - Glands & Hormones: Crash Course Anatomy & Physiology #23",
+          "url": "https://www.youtube.com/watch?v=eWHH9je2zG4",
+          "thumbnail": "https://i.ytimg.com/vi/eWHH9je2zG4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "SCV_m91mN-Q",
+          "title": "Endocrine System, Part 2 - Hormone Cascades: Crash Course Anatomy & Physiology #24",
+          "url": "https://www.youtube.com/watch?v=SCV_m91mN-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SCV_m91mN-Q/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "X9ZZ6tcxArI",
+          "title": "The Heart, Part 1 - Under Pressure: Crash Course Anatomy & Physiology #25",
+          "url": "https://www.youtube.com/watch?v=X9ZZ6tcxArI",
+          "thumbnail": "https://i.ytimg.com/vi/X9ZZ6tcxArI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "FLBMwcvOaEo",
+          "title": "The Heart, Part 2 - Heart Throbs: Crash Course Anatomy & Physiology #26",
+          "url": "https://www.youtube.com/watch?v=FLBMwcvOaEo",
+          "thumbnail": "https://i.ytimg.com/vi/FLBMwcvOaEo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "v43ej5lCeBo",
+          "title": "Blood Vessels, Part 1 - Form and Function: Crash Course Anatomy & Physiology #27",
+          "url": "https://www.youtube.com/watch?v=v43ej5lCeBo",
+          "thumbnail": "https://i.ytimg.com/vi/v43ej5lCeBo/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "ZVklPwGALpI",
+          "title": "Blood Vessels, Part 2: Crash Course Anatomy & Physiology #28",
+          "url": "https://www.youtube.com/watch?v=ZVklPwGALpI",
+          "thumbnail": "https://i.ytimg.com/vi/ZVklPwGALpI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "HQWlcSp9Sls",
+          "title": "Blood, Part 1 - True Blood: Crash Course Anatomy & Physiology #29",
+          "url": "https://www.youtube.com/watch?v=HQWlcSp9Sls",
+          "thumbnail": "https://i.ytimg.com/vi/HQWlcSp9Sls/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "9-XoM2144tk",
+          "title": "Blood, Part 2 - There Will Be Blood: Crash Course Anatomy & Physiology #30",
+          "url": "https://www.youtube.com/watch?v=9-XoM2144tk",
+          "thumbnail": "https://i.ytimg.com/vi/9-XoM2144tk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "bHZsvBdUC2I",
+          "title": "Respiratory System, Part 1: Crash Course Anatomy & Physiology #31",
+          "url": "https://www.youtube.com/watch?v=bHZsvBdUC2I",
+          "thumbnail": "https://i.ytimg.com/vi/bHZsvBdUC2I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "Cqt4LjHnMEA",
+          "title": "Respiratory System, Part 2: Crash Course Anatomy & Physiology #32",
+          "url": "https://www.youtube.com/watch?v=Cqt4LjHnMEA",
+          "thumbnail": "https://i.ytimg.com/vi/Cqt4LjHnMEA/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "yIoTRGfcMqM",
+          "title": "Digestive System, Part 1: Crash Course Anatomy & Physiology #33",
+          "url": "https://www.youtube.com/watch?v=yIoTRGfcMqM",
+          "thumbnail": "https://i.ytimg.com/vi/yIoTRGfcMqM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "pqgcEIaXGME",
+          "title": "Digestive System, Part 2: Crash Course Anatomy & Physiology #34",
+          "url": "https://www.youtube.com/watch?v=pqgcEIaXGME",
+          "thumbnail": "https://i.ytimg.com/vi/pqgcEIaXGME/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "jGme7BRkpuQ",
+          "title": "Digestive System, Part 3: Crash Course Anatomy & Physiology #35",
+          "url": "https://www.youtube.com/watch?v=jGme7BRkpuQ",
+          "thumbnail": "https://i.ytimg.com/vi/jGme7BRkpuQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "fR3NxCR9z2U",
+          "title": "Metabolism & Nutrition, Part 1: Crash Course Anatomy & Physiology #36",
+          "url": "https://www.youtube.com/watch?v=fR3NxCR9z2U",
+          "thumbnail": "https://i.ytimg.com/vi/fR3NxCR9z2U/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "kb146Y1igTQ",
+          "title": "Metabolism & Nutrition, Part 2: Crash Course Anatomy & Physiology #37",
+          "url": "https://www.youtube.com/watch?v=kb146Y1igTQ",
+          "thumbnail": "https://i.ytimg.com/vi/kb146Y1igTQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "l128tW1H5a8",
+          "title": "Urinary System, Part 1: Crash Course Anatomy & Physiology #38",
+          "url": "https://www.youtube.com/watch?v=l128tW1H5a8",
+          "thumbnail": "https://i.ytimg.com/vi/l128tW1H5a8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "DlqyyyvTI3k",
+          "title": "Urinary System, Part 2: Crash Course Anatomy & Physiology #39",
+          "url": "https://www.youtube.com/watch?v=DlqyyyvTI3k",
+          "thumbnail": "https://i.ytimg.com/vi/DlqyyyvTI3k/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "RFDatCchpus",
+          "title": "Reproductive System, Part 1 - Female Reproductive System: Crash Course Anatomy & Physiology #40",
+          "url": "https://www.youtube.com/watch?v=RFDatCchpus",
+          "thumbnail": "https://i.ytimg.com/vi/RFDatCchpus/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "-XQcnO4iX_U",
+          "title": "Reproductive System, Part 2 - Male Reproductive System: Crash Course Anatomy & Physiology #41",
+          "url": "https://www.youtube.com/watch?v=-XQcnO4iX_U",
+          "thumbnail": "https://i.ytimg.com/vi/-XQcnO4iX_U/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "SUdAEGXLO-8",
+          "title": "Reproductive System, Part 3 - Sex & Fertilization: Crash Course Anatomy & Physiology #42",
+          "url": "https://www.youtube.com/watch?v=SUdAEGXLO-8",
+          "thumbnail": "https://i.ytimg.com/vi/SUdAEGXLO-8/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "BtsSbZ85yiQ",
+          "title": "Reproductive System, Part 4 - Pregnancy & Development: Crash Course Anatomy & Physiology #43",
+          "url": "https://www.youtube.com/watch?v=BtsSbZ85yiQ",
+          "thumbnail": "https://i.ytimg.com/vi/BtsSbZ85yiQ/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "I7orwMgTQ5I",
+          "title": "Lymphatic System: Crash Course Anatomy & Physiology #44",
+          "url": "https://www.youtube.com/watch?v=I7orwMgTQ5I",
+          "thumbnail": "https://i.ytimg.com/vi/I7orwMgTQ5I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "GIJK3dwCWCw",
+          "title": "Immune System, Part 1: Crash Course Anatomy & Physiology #45",
+          "url": "https://www.youtube.com/watch?v=GIJK3dwCWCw",
+          "thumbnail": "https://i.ytimg.com/vi/GIJK3dwCWCw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "2DFN4IBZ3rI",
+          "title": "Immune System, Part 2: Crash Course Anatomy & Physiology #46",
+          "url": "https://www.youtube.com/watch?v=2DFN4IBZ3rI",
+          "thumbnail": "https://i.ytimg.com/vi/2DFN4IBZ3rI/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "rd2cf5hValM",
+          "title": "Immune System, Part 3: Crash Course Anatomy & Physiology #47",
+          "url": "https://www.youtube.com/watch?v=rd2cf5hValM",
+          "thumbnail": "https://i.ytimg.com/vi/rd2cf5hValM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "id": "-eIuQAMTI4I",
+          "title": "Crash Course Office Hours: Anatomy & Physiology",
+          "url": "https://www.youtube.com/watch?v=-eIuQAMTI4I",
+          "thumbnail": "https://i.ytimg.com/vi/-eIuQAMTI4I/hqdefault.jpg",
+          "watched": false
+        }
+      ]
     }
   ]
 }
