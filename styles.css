@@ -264,7 +264,6 @@ section h2 {
 
 .playlist .progress-bar {
   height: 100%;
-  background-color: #28a745; /* Green color for playlist progress */
   transition: width 0.3s ease-in-out; /* Smooth width changes */
   border-radius: 8px; /* Rounded corners for smooth appearance */
 }
