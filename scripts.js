@@ -55,7 +55,6 @@ function renderBooks(books) {
   });
 }
 
-
 function renderPlaylists(playlists) {
   const container = document.getElementById("playlistsContainer");
   container.innerHTML = ""; // Clear any existing content
@@ -103,7 +102,10 @@ function renderPlaylists(playlists) {
     const videoContainer = document.createElement("div");
     videoContainer.className = "video-container";
 
-    // Render videos
+    // Render videos and find the second-to-last watched video
+    let lastWatchedVideo = null;
+    let secondLastWatchedVideo = null;
+
     playlist.videos.forEach((video) => {
       const videoCard = document.createElement("div");
       videoCard.className = "video-card";
@@ -111,6 +113,8 @@ function renderPlaylists(playlists) {
       // Add "watched" class if the video is watched
       if (video.watched) {
         videoCard.classList.add("watched");
+        secondLastWatchedVideo = lastWatchedVideo; // Update second last watched
+        lastWatchedVideo = videoCard; // Update last watched
       }
 
       videoCard.innerHTML = `
@@ -124,6 +128,17 @@ function renderPlaylists(playlists) {
 
     playlistDiv.appendChild(videoContainer);
     container.appendChild(playlistDiv);
+
+    // Automatically scroll to the second-to-last watched video
+    if (secondLastWatchedVideo) {
+      setTimeout(() => {
+        secondLastWatchedVideo.scrollIntoView({
+          behavior: "smooth",
+          block: "nearest",
+          inline: "start",
+        });
+      }, 100); // Delay to ensure rendering is complete
+    }
   });
 }
 
