@@ -252,6 +252,10 @@ section h2 {
   transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
 }
 
+.playlist .video-card.no-link {
+  height: 230px;
+}
+
 .playlist .progress-bar-container {
   width: 90%;
   background-color: #ddd; /* Lighter background for the container */

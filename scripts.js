@@ -117,11 +117,17 @@ function renderPlaylists(playlists) {
         lastWatchedVideoIndex = index; // Update last watched
       }
 
+      let button = `<a href="${video.url}" target="_blank">Watch Video</a>`
       videoCard.innerHTML = `
         <img src="${video.thumbnail}" alt="${video.title}">
-        <h3>${video.title}</h3>
-        <a href="${video.url}" target="_blank">Watch Video</a>
-      `;
+        <h3>${video.title}</h3>`;
+      if (video.url) {
+        videoCard.innerHTML += button;
+      }
+
+      if (!video.url) {
+        videoCard.classList.add("no-link");
+      }
 
       videoContainer.appendChild(videoCard);
     });
@@ -131,7 +137,7 @@ function renderPlaylists(playlists) {
 
     // Automatically scroll the video container to the second-to-last watched video
     if (secondLastWatchedVideoIndex !== null) {
-      const scrollOffset = secondLastWatchedVideoIndex * 250; // Adjust 220 to match the video card width + margin
+      const scrollOffset = secondLastWatchedVideoIndex * 220; // Adjust 220 to match the video card width + margin
       setTimeout(() => {
         videoContainer.scrollTo({
           left: scrollOffset,

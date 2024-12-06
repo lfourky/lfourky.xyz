@@ -77,6 +77,372 @@
   ],
   "playlists": [
     {
+      "name": "Chemistry and Our Universe: How It All Works",
+      "url": "https://www.thegreatcourses.com/courses/chemistry-and-our-universe-how-it-all-works",
+      "videos": [
+        {
+          "title": "Is Chemistry the Science of Everything?",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Matter and Measurement",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Wave Nature of Light",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Particle Nature of Light",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Basic Structure of the Atom",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Electronic Structure of the Atom",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Periodic Trends: Navigating the Table",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Compounds and Chemical Formulas",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Joining Atoms: The Chemical Bond",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Mapping Molecules: Lewis Structures",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "VSEPR Theory and Molecular Geometry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Hybridization of Orbitals",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Molecular Orbital Theory",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Communicating Chemical Reactions",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Chemical Accounting: Stoichiometry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Enthalpy and Calorimetry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Hess's Law and Heats of Formation",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Entropy: The Role of Randomness",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Influence of Free Energy",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Intermolecular Forces",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Phase Changes in Matter",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Behavior of Gases: Gas Laws",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Kinetic Molecular Theory",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Liquids and Their Properties",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Metals and Ionic Solids",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Covalent Solids",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Mixing It Up: Solutions",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Solubility and Saturation",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Colligative Properties of Solutions",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Modeling Reaction Rates",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Temperature and Reaction Rates",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Reaction Mechanisms and Catalysis",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "The Back and Forth of Equilibrium",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": true
+        },
+        {
+          "title": "Manipulating Chemical Equilibrium",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Acids, Bases, and the pH Scale",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Weak Acids and Bases",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Acid-Base Reactions and Buffers",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Polyprotic Acids",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Structural Basis for Acidity",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Electron Exchange: Redox Reactions",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Electromotive Force and Free Energy",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Storing Electrical Potential: Batteries",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Nuclear Chemistry and Radiation",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Binding Energy and the Mass Defect",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Breaking Things Down: Nuclear Fission",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Building Things Up: Nuclear Fusion",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Introduction to Organic Chemistry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Heteroatoms and Functional Groups",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Reactions in Organic Chemistry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Synthetic Polymers",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Biological Polymers",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Medicinal Chemistry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Poisons, Toxins, and Venoms",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Chemical Weapons",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Tapping Chemical Energy: Fuels",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Unleashing Chemical Energy: Explosives",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Chemistry of the Earth",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Chemistry of Our Oceans",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Atmospheric Chemistry",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        },
+        {
+          "title": "Chemistry, Life, and the Cosmos",
+          "url": "",
+          "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
+          "watched": false
+        }
+      ]
+    },
+    {
       "name": "Crash Course: Chemistry",
       "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtPHzzYuWy6fYEaX9mQQ8oGr",
       "videos": [
