@@ -78,6 +78,16 @@ function renderPlaylists(playlists) {
     playlistTitle.textContent = playlist.name;
     playlistDiv.appendChild(playlistTitle);
 
+    // Playlist link
+    if (playlist.url) {
+      const playlistLink = document.createElement("a");
+      playlistLink.href = playlist.url;
+      playlistLink.target = "_blank";
+      playlistLink.innerHTML = "(*)"; // Display the (*) link
+      playlistLink.style.marginLeft = "10px"; // Optional spacing for better visibility
+      playlistTitle.appendChild(playlistLink);
+    }
+
     // Display progress bar
     const progressBarContainer = document.createElement("div");
     progressBarContainer.className = "progress-bar-container";
@@ -117,7 +127,7 @@ function renderPlaylists(playlists) {
         lastWatchedVideoIndex = index; // Update last watched
       }
 
-      let button = `<a href="${video.url}" target="_blank">Watch Video</a>`
+      let button = `<a href="${video.url}" target="_blank">Watch Video</a>`;
       videoCard.innerHTML = `
         <img src="${video.thumbnail}" alt="${video.title}">
         <h3>${video.title}</h3>`;
