@@ -23,31 +23,7 @@
       "url": "https://www.amazon.com/Chemistry-Dummies-Math-Science/dp/B003156A1Y",
       "thumbnail": "https://m.media-amazon.com/images/I/91FIyw2qhyL.jpg",
       "totalPages": 384,
-      "readPages": 291
-    },
-    {
-      "title": "Anatomy & Physiology For Dummies",
-      "author": "Erin Odya",
-      "url": "Anatomy & Physiology For Dummies",
-      "thumbnail": "https://m.media-amazon.com/images/I/81fjjaiB0DS._SL1500_.jpg",
-      "totalPages": 384,
-      "readPages": 26
-    },
-    {
-      "title": "Genetics 101",
-      "author": "Beth Skwarecki",
-      "url": "https://www.amazon.com/Genetics-101-Chromosomes-Cloning-Everything/dp/1507207646",
-      "thumbnail": "https://m.media-amazon.com/images/I/71PMAod4yaL._SL1500_.jpg",
-      "totalPages": 234,
-      "readPages": 31
-    },
-    {
-      "title": "Anatomy 101",
-      "author": "Kevin Langford",
-      "url": "https://www.amazon.com/Anatomy-101-Muscles-Organs-Systems/dp/1440584265",
-      "thumbnail": "https://m.media-amazon.com/images/I/71yxMN11BZL._SL1500_.jpg",
-      "totalPages": 373,
-      "readPages": 0
+      "readPages": 232
     },
     {
       "title": "Organic Chemistry I For Dummies",
@@ -542,35 +518,35 @@
           "title": "Ideal Gas Problems: Crash Course Chemistry #13",
           "url": "https://www.youtube.com/watch?v=8SRAkXMu3d0",
           "thumbnail": "https://i.ytimg.com/vi/8SRAkXMu3d0/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "GIPrsWuSkQc",
           "title": "Real Gases: Crash Course Chemistry #14",
           "url": "https://www.youtube.com/watch?v=GIPrsWuSkQc",
           "thumbnail": "https://i.ytimg.com/vi/GIPrsWuSkQc/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "JbqtqCunYzA",
           "title": "Partial Pressures & Vapor Pressure: Crash Course Chemistry #15",
           "url": "https://www.youtube.com/watch?v=JbqtqCunYzA",
           "thumbnail": "https://i.ytimg.com/vi/JbqtqCunYzA/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "TLRZAFU_9Kg",
           "title": "Passing Gases: Effusion, Diffusion, and the Velocity of a Gas - Crash Course Chemistry #16",
           "url": "https://www.youtube.com/watch?v=TLRZAFU_9Kg",
           "thumbnail": "https://i.ytimg.com/vi/TLRZAFU_9Kg/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "GqtUWyDR1fg",
           "title": "Energy & Chemistry: Crash Course Chemistry #17",
           "url": "https://www.youtube.com/watch?v=GqtUWyDR1fg",
           "thumbnail": "https://i.ytimg.com/vi/GqtUWyDR1fg/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "SV7U4yAXL5I",
