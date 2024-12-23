@@ -23,7 +23,7 @@
       "url": "https://www.amazon.com/Chemistry-Dummies-Math-Science/dp/B003156A1Y",
       "thumbnail": "https://m.media-amazon.com/images/I/91FIyw2qhyL.jpg",
       "totalPages": 384,
-      "readPages": 270
+      "readPages": 300
     },
     {
       "title": "Organic Chemistry I For Dummies",
@@ -553,21 +553,21 @@
           "title": "Enthalpy: Crash Course Chemistry #18",
           "url": "https://www.youtube.com/watch?v=SV7U4yAXL5I",
           "thumbnail": "https://i.ytimg.com/vi/SV7U4yAXL5I/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "JuWtBR-rDQk",
           "title": "Calorimetry: Crash Course Chemistry #19",
           "url": "https://www.youtube.com/watch?v=JuWtBR-rDQk",
           "thumbnail": "https://i.ytimg.com/vi/JuWtBR-rDQk/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "ZsY4WcQOrfk",
           "title": "Entropy: Embrace the Chaos! Crash Course Chemistry #20",
           "url": "https://www.youtube.com/watch?v=ZsY4WcQOrfk",
           "thumbnail": "https://i.ytimg.com/vi/ZsY4WcQOrfk/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "id": "VRWRmIEHr3A",
