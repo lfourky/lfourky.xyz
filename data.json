@@ -31,7 +31,7 @@
       "url": "https://www.amazon.com/Organic-Chemistry-Dummies-Lifestyle/dp/1119293375",
       "thumbnail": "https://m.media-amazon.com/images/I/81TjzGlkdUL._SL1500_.jpg",
       "totalPages": 408,
-      "readPages": 40
+      "readPages": 60
     },
     {
       "title": "Organic Chemistry II For Dummies",
@@ -282,7 +282,7 @@
           "title": "Polyprotic Acids",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "Structural Basis for Acidity",
