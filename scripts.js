@@ -53,6 +53,24 @@ function renderBooks(books) {
 
     container.appendChild(bookCard);
   });
+
+  let targetIndex = books.findIndex(
+    (b) => b.totalPages > 0 && b.readPages < b.totalPages
+  );
+  if (targetIndex === -1) targetIndex = books.length - 1; // all finished → jump to last card
+
+  // Wait a tick to ensure layout is done, then scroll
+  setTimeout(() => {
+    const bookCards = container.querySelectorAll(".book-card");
+    if (bookCards[targetIndex]) {
+      // Centers the card in view horizontally
+      bookCards[targetIndex].scrollIntoView({
+        behavior: "smooth",
+        inline: "center",
+        block: "nearest",
+      });
+    }
+  }, 100);
 }
 
 function renderPlaylists(playlists) {
