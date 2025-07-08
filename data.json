@@ -55,7 +55,7 @@
       "url": "https://www.amazon.com/Contain-Multitudes-Microbes-Within-Grander/dp/0062368591",
       "thumbnail": "https://m.media-amazon.com/images/I/91Sqv2huR5L._SL1500_.jpg",
       "totalPages": 368,
-      "readPages": 160
+      "readPages": 180
     },
     {
       "title": "Fundamentals of Biochemistry",
@@ -328,7 +328,7 @@
           "title": "Structural Basis for Acidity",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/courses/medium/1350.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "Electron Exchange: Redox Reactions",
