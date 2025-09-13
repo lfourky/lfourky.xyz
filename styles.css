@@ -125,6 +125,11 @@ section h2 {
   transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
 }
 
+.book-card.completed:hover {
+  opacity: 1; /* Restore full opacity on hover */
+  filter: grayscale(0%); /* Remove grayscale filter on hover */
+}
+
 /* Book title */
 .book-card h3 {
   font-size: 16px; /* Adjusted font size */
@@ -250,6 +255,11 @@ section h2 {
   opacity: 0.5; /* Makes the card slightly transparent */
   filter: grayscale(100%); /* Converts the card to grayscale */
   transition: opacity 0.3s ease, filter 0.3s ease; /* Smooth transition */
+}
+
+.playlist .video-card.watched:hover {
+  opacity: 1; /* Restore full opacity on hover */
+  filter: grayscale(0%); /* Remove grayscale filter on hover */
 }
 
 .playlist .video-card.no-link {
