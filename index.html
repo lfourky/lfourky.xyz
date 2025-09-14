@@ -1,37 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Academic Endeavors</title>
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
-    />
 
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <header>
-      <h1>Academic Endeavors</h1>
-    </header>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Academic Endeavors</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
 
-    <!-- Books Section -->
-    <section>
-      <h2>Books</h2>
-      <div class="horizontal-scroll-container" id="booksContainer">
-        <!-- Book cards will be dynamically injected here -->
-      </div>
-    </section>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GEQ8MVZ1J8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-    <!-- Playlists Section -->
-    <section>
-      <h2>Playlists</h2>
-      <div id="playlistsContainer">
-        <!-- Playlist cards will be dynamically injected here -->
-      </div>
-    </section>
+    gtag('config', 'G-GEQ8MVZ1J8');
+  </script>
+</head>
 
-    <script src="scripts.js"></script>
-  </body>
+<body>
+  <header>
+    <h1>Academic Endeavors</h1>
+  </header>
+
+  <!-- Books Section -->
+  <section>
+    <h2>Books</h2>
+    <div class="horizontal-scroll-container" id="booksContainer">
+      <!-- Book cards will be dynamically injected here -->
+    </div>
+  </section>
+
+  <!-- Playlists Section -->
+  <section>
+    <h2>Playlists</h2>
+    <div id="playlistsContainer">
+      <!-- Playlist cards will be dynamically injected here -->
+    </div>
+  </section>
+
+  <script src="scripts.js"></script>
+</body>
+
 </html>
