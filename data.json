@@ -488,13 +488,13 @@
           "title": "Atmospheric Chemistry",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/1350/1350-L59.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "Chemistry, Life, and the Cosmos",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/1350/1350-L60.jpg",
-          "watched": false
+          "watched": true
         }
       ]
     },
