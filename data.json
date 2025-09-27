@@ -506,13 +506,13 @@
           "title": "Biochemistry Is the Science of Us",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/9572/9572-L01.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "Why Water Is Essential for Life",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/9572/9572-L02.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "Amino Acids: 20 Building Blocks of Life",
