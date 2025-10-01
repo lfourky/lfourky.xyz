@@ -129,6 +129,54 @@
       "thumbnail": "https://m.media-amazon.com/images/I/81TmQrhMTrL._SL1500_.jpg",
       "totalPages": 368,
       "readPages": 0
+    },
+    {
+      "title": "Biochemistry: A Very Short Introduction",
+      "author": "Mark Lorch",
+      "url": "https://www.amazon.com/Biochemistry-Very-Short-Introduction-Introductions-ebook/dp/B094W78SV3",
+      "thumbnail": "https://m.media-amazon.com/images/I/91XyxCAtyGS._SL1500_.jpg",
+      "totalPages": 160,
+      "readPages": 0
+    },
+    {
+      "title": "Chemistry: A Very Short Introduction",
+      "author": "Peter Atkins",
+      "url": "https://www.amazon.com/Chemistry-Very-Short-Introduction-Introductions-ebook/dp/B00PQX4ONU",
+      "thumbnail": "https://m.media-amazon.com/images/I/91t247LEtIL._SL1500_.jpg",
+      "totalPages": 128,
+      "readPages": 0
+    },
+    {
+      "title": "Enzymes: A Very Short Introduction",
+      "author": "Paul Engel",
+      "url": "https://www.amazon.com/Enzymes-Very-Short-Introduction-Introductions/dp/019882498X",
+      "thumbnail": "https://m.media-amazon.com/images/I/81dU4qv9YmL._SL1500_.jpg",
+      "totalPages": 192,
+      "readPages": 0
+    },
+    {
+      "title": "Molecules: A Very Short Introduction",
+      "author": "Philip Ball",
+      "url": "https://www.amazon.com/Molecules-Very-Short-Introduction-Introductions-ebook/dp/B003N19DR4",
+      "thumbnail": "https://m.media-amazon.com/images/I/91+uEh+O25L._SL1500_.jpg",
+      "totalPages": 192,
+      "readPages": 0
+    },
+    {
+      "title": "Physical Chemistry: A Very Short Introduction",
+      "author": "Peter Atkins",
+      "url": "amazon.com/Physical-Chemistry-Short-Introduction-Introductions/dp/0199689091",
+      "thumbnail": "https://m.media-amazon.com/images/I/81bONoClPtL._SL1374_.jpg",
+      "totalPages": 128,
+      "readPages": 0
+    },
+    {
+      "title": "Organic Chemistry: A Very Short Introduction",
+      "author": "Graham Patrick",
+      "url": "https://www.amazon.com/Organic-Chemistry-Short-Introduction-Introductions/dp/0198759770",
+      "thumbnail": "https://m.media-amazon.com/images/I/51UWGuf+myL._SL1000_.jpg",
+      "totalPages": 208,
+      "readPages": 0
     }
   ],
   "playlists": [
