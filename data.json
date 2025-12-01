@@ -74,6 +74,14 @@
       "readPages": 1
     },
     {
+      "title": "Molecules: A Very Short Introduction",
+      "author": "Philip Ball",
+      "url": "https://www.amazon.com/Molecules-Very-Short-Introduction-Introductions-ebook/dp/B003N19DR4",
+      "thumbnail": "https://m.media-amazon.com/images/I/91+uEh+O25L._SL1500_.jpg",
+      "totalPages": 192,
+      "readPages": 170
+    },
+    {
       "title": "Immune: A Journey into the Mysterious System That Keeps You Alive",
       "author": "Philipp Dettmer",
       "url": "https://www.amazon.com/Immune-Journey-Mysterious-System-Keeps/dp/0593241312",
@@ -151,14 +159,6 @@
       "author": "Paul Engel",
       "url": "https://www.amazon.com/Enzymes-Very-Short-Introduction-Introductions/dp/019882498X",
       "thumbnail": "https://m.media-amazon.com/images/I/81dU4qv9YmL._SL1500_.jpg",
-      "totalPages": 192,
-      "readPages": 0
-    },
-    {
-      "title": "Molecules: A Very Short Introduction",
-      "author": "Philip Ball",
-      "url": "https://www.amazon.com/Molecules-Very-Short-Introduction-Introductions-ebook/dp/B003N19DR4",
-      "thumbnail": "https://m.media-amazon.com/images/I/91+uEh+O25L._SL1500_.jpg",
       "totalPages": 192,
       "readPages": 0
     },
@@ -782,7 +782,7 @@
           "title": "Amino Acids: 20 Building Blocks of Life",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/9572/9572-L03.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "From Peptide Bonds to Protein Structure",
