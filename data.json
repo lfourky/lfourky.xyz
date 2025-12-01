@@ -181,6 +181,222 @@
   ],
   "playlists": [
     {
+      "name": "MIT 7.016 Introductory Biology, Fall 2018",
+      "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63",
+      "videos": [
+        {
+          "title": "1. Introduction, Course Organization of MIT 7.016 Introductory Biology, Fall 2018",
+          "url": "https://www.youtube.com/watch?v=KlVHqq38KJU",
+          "thumbnail": "https://i.ytimg.com/vi/KlVHqq38KJU/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "title": "2. Chemical Bonding and Molecular Interactions; Lipids and Membranes",
+          "url": "https://www.youtube.com/watch?v=aKTOS0Nrlug",
+          "thumbnail": "https://i.ytimg.com/vi/aKTOS0Nrlug/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "title": "3. Structures of Amino Acids, Peptides, and Proteins",
+          "url": "https://www.youtube.com/watch?v=oOya3cFmAMc",
+          "thumbnail": "https://i.ytimg.com/vi/oOya3cFmAMc/hqdefault.jpg",
+          "watched": true
+        },
+        {
+          "title": "4. Enzymes & Metabolism",
+          "url": "https://www.youtube.com/watch?v=QTdJiG7mV40",
+          "thumbnail": "https://i.ytimg.com/vi/QTdJiG7mV40/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "5. Carbohydrates and Glycoproteins",
+          "url": "https://www.youtube.com/watch?v=CALYA11terw",
+          "thumbnail": "https://i.ytimg.com/vi/CALYA11terw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "6. Nucleic Acids",
+          "url": "https://www.youtube.com/watch?v=s1MoBTEcVYY",
+          "thumbnail": "https://i.ytimg.com/vi/s1MoBTEcVYY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "7. Replication",
+          "url": "https://www.youtube.com/watch?v=8jLy33vbtYM",
+          "thumbnail": "https://i.ytimg.com/vi/8jLy33vbtYM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "8. Transcription",
+          "url": "https://www.youtube.com/watch?v=apP5SWitnyw",
+          "thumbnail": "https://i.ytimg.com/vi/apP5SWitnyw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "9. Chromatin Remodeling and Splicing",
+          "url": "https://www.youtube.com/watch?v=Chv8dlBVXpw",
+          "thumbnail": "https://i.ytimg.com/vi/Chv8dlBVXpw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "10. Translation",
+          "url": "https://www.youtube.com/watch?v=7xJPSuSVmSk",
+          "thumbnail": "https://i.ytimg.com/vi/7xJPSuSVmSk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "11. Cells, the Simplest Functional Units",
+          "url": "https://www.youtube.com/watch?v=SA8dRTq3qUA",
+          "thumbnail": "https://i.ytimg.com/vi/SA8dRTq3qUA/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "12. Genetics 1 – Cell Division & Segregating Genetic Material",
+          "url": "https://www.youtube.com/watch?v=rZjwF5z-Xfw",
+          "thumbnail": "https://i.ytimg.com/vi/rZjwF5z-Xfw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "13. Genetics 2 – Rules of Inheritance",
+          "url": "https://www.youtube.com/watch?v=qtGHKiAROig",
+          "thumbnail": "https://i.ytimg.com/vi/qtGHKiAROig/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "14. Genetics 3 – Linkage, Crossing Over",
+          "url": "https://www.youtube.com/watch?v=jeNPvqRXI9I",
+          "thumbnail": "https://i.ytimg.com/vi/jeNPvqRXI9I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "15. Genetics 4 – The power of model organisms in biological discovery",
+          "url": "https://www.youtube.com/watch?v=68KXOYTc1mk",
+          "thumbnail": "https://i.ytimg.com/vi/68KXOYTc1mk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "16. Recombinant DNA, Cloning, & Editing",
+          "url": "https://www.youtube.com/watch?v=kVu37T6sB_E",
+          "thumbnail": "https://i.ytimg.com/vi/kVu37T6sB_E/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "17. Genomes and DNA Sequencing",
+          "url": "https://www.youtube.com/watch?v=JuwErrBz3b4",
+          "thumbnail": "https://i.ytimg.com/vi/JuwErrBz3b4/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "18. SNPs & Human genetics",
+          "url": "https://www.youtube.com/watch?v=83-yKXuRDGc",
+          "thumbnail": "https://i.ytimg.com/vi/83-yKXuRDGc/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "19. Cell Trafficking and Protein Localization",
+          "url": "https://www.youtube.com/watch?v=Qfw0C0Ac-Tk",
+          "thumbnail": "https://i.ytimg.com/vi/Qfw0C0Ac-Tk/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "20. Cell Signaling 1 – Overview",
+          "url": "https://www.youtube.com/watch?v=5ejPI6QqKBU",
+          "thumbnail": "https://i.ytimg.com/vi/5ejPI6QqKBU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "21. Cell Signaling 2 – Examples",
+          "url": "https://www.youtube.com/watch?v=mvjXFh4P08I",
+          "thumbnail": "https://i.ytimg.com/vi/mvjXFh4P08I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "22. Neurons, Action Potential, & Optogenetics",
+          "url": "https://www.youtube.com/watch?v=7afYLl70cO0",
+          "thumbnail": "https://i.ytimg.com/vi/7afYLl70cO0/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "23. Cell Cycle and Checkpoints",
+          "url": "https://www.youtube.com/watch?v=iz7rWK5cqjE",
+          "thumbnail": "https://i.ytimg.com/vi/iz7rWK5cqjE/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "24. Stem Cells, Apoptosis, & Tissue Homeostasis",
+          "url": "https://www.youtube.com/watch?v=EJ6Sjn1c04Y",
+          "thumbnail": "https://i.ytimg.com/vi/EJ6Sjn1c04Y/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "25. Cancer 1",
+          "url": "https://www.youtube.com/watch?v=L4tEwAsVW0I",
+          "thumbnail": "https://i.ytimg.com/vi/L4tEwAsVW0I/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "26. Cancer 2",
+          "url": "https://www.youtube.com/watch?v=6rOvXGoXoJc",
+          "thumbnail": "https://i.ytimg.com/vi/6rOvXGoXoJc/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "27. Visualizing Life – Dyes and Stains",
+          "url": "https://www.youtube.com/watch?v=nvxvcbaoayM",
+          "thumbnail": "https://i.ytimg.com/vi/nvxvcbaoayM/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "28. Visualizing Life - Fluorescent Proteins",
+          "url": "https://www.youtube.com/watch?v=hDppkpYcBdg",
+          "thumbnail": "https://i.ytimg.com/vi/hDppkpYcBdg/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "29. Cell Imaging Techniques",
+          "url": "https://www.youtube.com/watch?v=LhbtCTwtdDU",
+          "thumbnail": "https://i.ytimg.com/vi/LhbtCTwtdDU/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "30. Immunology 1 – Diversity, Specificity, & B cells",
+          "url": "https://www.youtube.com/watch?v=FpXIGTFD8Qs",
+          "thumbnail": "https://i.ytimg.com/vi/FpXIGTFD8Qs/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "31. Immunology 2 – Memory, T cells, & Autoimmunity",
+          "url": "https://www.youtube.com/watch?v=SqGmQ6CFYHw",
+          "thumbnail": "https://i.ytimg.com/vi/SqGmQ6CFYHw/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "32. Infectious Disease, Viruses, and Bacteria",
+          "url": "https://www.youtube.com/watch?v=7gLcuMtM_HY",
+          "thumbnail": "https://i.ytimg.com/vi/7gLcuMtM_HY/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "33. Bacteria and Antibiotic Resistance",
+          "url": "https://www.youtube.com/watch?v=E8BihX2hGss",
+          "thumbnail": "https://i.ytimg.com/vi/E8BihX2hGss/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "34. Viruses and Anti-Viral Resistance",
+          "url": "https://www.youtube.com/watch?v=Ao-r2nsib_Y",
+          "thumbnail": "https://i.ytimg.com/vi/Ao-r2nsib_Y/hqdefault.jpg",
+          "watched": false
+        },
+        {
+          "title": "35. Reproductive Cloning and Embryonic Stem Cells",
+          "url": "https://www.youtube.com/watch?v=_fWt9yHslDo",
+          "thumbnail": "https://i.ytimg.com/vi/_fWt9yHslDo/hqdefault.jpg",
+          "watched": false
+        }
+      ]
+    },
+    {
       "name": "Chemistry and Our Universe: How It All Works",
       "url": "https://www.thegreatcourses.com/courses/chemistry-and-our-universe-how-it-all-works",
       "videos": [
@@ -543,222 +759,6 @@
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/1350/1350-L60.jpg",
           "watched": true
-        }
-      ]
-    },
-    {
-      "name": "MIT 7.016 Introductory Biology, Fall 2018",
-      "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63",
-      "videos": [
-        {
-          "title": "1. Introduction, Course Organization of MIT 7.016 Introductory Biology, Fall 2018",
-          "url": "https://www.youtube.com/watch?v=KlVHqq38KJU",
-          "thumbnail": "https://i.ytimg.com/vi/KlVHqq38KJU/hqdefault.jpg",
-          "watched": true
-        },
-        {
-          "title": "2. Chemical Bonding and Molecular Interactions; Lipids and Membranes",
-          "url": "https://www.youtube.com/watch?v=aKTOS0Nrlug",
-          "thumbnail": "https://i.ytimg.com/vi/aKTOS0Nrlug/hqdefault.jpg",
-          "watched": true
-        },
-        {
-          "title": "3. Structures of Amino Acids, Peptides, and Proteins",
-          "url": "https://www.youtube.com/watch?v=oOya3cFmAMc",
-          "thumbnail": "https://i.ytimg.com/vi/oOya3cFmAMc/hqdefault.jpg",
-          "watched": true
-        },
-        {
-          "title": "4. Enzymes & Metabolism",
-          "url": "https://www.youtube.com/watch?v=QTdJiG7mV40",
-          "thumbnail": "https://i.ytimg.com/vi/QTdJiG7mV40/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "5. Carbohydrates and Glycoproteins",
-          "url": "https://www.youtube.com/watch?v=CALYA11terw",
-          "thumbnail": "https://i.ytimg.com/vi/CALYA11terw/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "6. Nucleic Acids",
-          "url": "https://www.youtube.com/watch?v=s1MoBTEcVYY",
-          "thumbnail": "https://i.ytimg.com/vi/s1MoBTEcVYY/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "7. Replication",
-          "url": "https://www.youtube.com/watch?v=8jLy33vbtYM",
-          "thumbnail": "https://i.ytimg.com/vi/8jLy33vbtYM/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "8. Transcription",
-          "url": "https://www.youtube.com/watch?v=apP5SWitnyw",
-          "thumbnail": "https://i.ytimg.com/vi/apP5SWitnyw/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "9. Chromatin Remodeling and Splicing",
-          "url": "https://www.youtube.com/watch?v=Chv8dlBVXpw",
-          "thumbnail": "https://i.ytimg.com/vi/Chv8dlBVXpw/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "10. Translation",
-          "url": "https://www.youtube.com/watch?v=7xJPSuSVmSk",
-          "thumbnail": "https://i.ytimg.com/vi/7xJPSuSVmSk/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "11. Cells, the Simplest Functional Units",
-          "url": "https://www.youtube.com/watch?v=SA8dRTq3qUA",
-          "thumbnail": "https://i.ytimg.com/vi/SA8dRTq3qUA/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "12. Genetics 1 – Cell Division & Segregating Genetic Material",
-          "url": "https://www.youtube.com/watch?v=rZjwF5z-Xfw",
-          "thumbnail": "https://i.ytimg.com/vi/rZjwF5z-Xfw/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "13. Genetics 2 – Rules of Inheritance",
-          "url": "https://www.youtube.com/watch?v=qtGHKiAROig",
-          "thumbnail": "https://i.ytimg.com/vi/qtGHKiAROig/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "14. Genetics 3 – Linkage, Crossing Over",
-          "url": "https://www.youtube.com/watch?v=jeNPvqRXI9I",
-          "thumbnail": "https://i.ytimg.com/vi/jeNPvqRXI9I/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "15. Genetics 4 – The power of model organisms in biological discovery",
-          "url": "https://www.youtube.com/watch?v=68KXOYTc1mk",
-          "thumbnail": "https://i.ytimg.com/vi/68KXOYTc1mk/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "16. Recombinant DNA, Cloning, & Editing",
-          "url": "https://www.youtube.com/watch?v=kVu37T6sB_E",
-          "thumbnail": "https://i.ytimg.com/vi/kVu37T6sB_E/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "17. Genomes and DNA Sequencing",
-          "url": "https://www.youtube.com/watch?v=JuwErrBz3b4",
-          "thumbnail": "https://i.ytimg.com/vi/JuwErrBz3b4/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "18. SNPs & Human genetics",
-          "url": "https://www.youtube.com/watch?v=83-yKXuRDGc",
-          "thumbnail": "https://i.ytimg.com/vi/83-yKXuRDGc/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "19. Cell Trafficking and Protein Localization",
-          "url": "https://www.youtube.com/watch?v=Qfw0C0Ac-Tk",
-          "thumbnail": "https://i.ytimg.com/vi/Qfw0C0Ac-Tk/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "20. Cell Signaling 1 – Overview",
-          "url": "https://www.youtube.com/watch?v=5ejPI6QqKBU",
-          "thumbnail": "https://i.ytimg.com/vi/5ejPI6QqKBU/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "21. Cell Signaling 2 – Examples",
-          "url": "https://www.youtube.com/watch?v=mvjXFh4P08I",
-          "thumbnail": "https://i.ytimg.com/vi/mvjXFh4P08I/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "22. Neurons, Action Potential, & Optogenetics",
-          "url": "https://www.youtube.com/watch?v=7afYLl70cO0",
-          "thumbnail": "https://i.ytimg.com/vi/7afYLl70cO0/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "23. Cell Cycle and Checkpoints",
-          "url": "https://www.youtube.com/watch?v=iz7rWK5cqjE",
-          "thumbnail": "https://i.ytimg.com/vi/iz7rWK5cqjE/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "24. Stem Cells, Apoptosis, & Tissue Homeostasis",
-          "url": "https://www.youtube.com/watch?v=EJ6Sjn1c04Y",
-          "thumbnail": "https://i.ytimg.com/vi/EJ6Sjn1c04Y/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "25. Cancer 1",
-          "url": "https://www.youtube.com/watch?v=L4tEwAsVW0I",
-          "thumbnail": "https://i.ytimg.com/vi/L4tEwAsVW0I/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "26. Cancer 2",
-          "url": "https://www.youtube.com/watch?v=6rOvXGoXoJc",
-          "thumbnail": "https://i.ytimg.com/vi/6rOvXGoXoJc/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "27. Visualizing Life – Dyes and Stains",
-          "url": "https://www.youtube.com/watch?v=nvxvcbaoayM",
-          "thumbnail": "https://i.ytimg.com/vi/nvxvcbaoayM/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "28. Visualizing Life - Fluorescent Proteins",
-          "url": "https://www.youtube.com/watch?v=hDppkpYcBdg",
-          "thumbnail": "https://i.ytimg.com/vi/hDppkpYcBdg/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "29. Cell Imaging Techniques",
-          "url": "https://www.youtube.com/watch?v=LhbtCTwtdDU",
-          "thumbnail": "https://i.ytimg.com/vi/LhbtCTwtdDU/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "30. Immunology 1 – Diversity, Specificity, & B cells",
-          "url": "https://www.youtube.com/watch?v=FpXIGTFD8Qs",
-          "thumbnail": "https://i.ytimg.com/vi/FpXIGTFD8Qs/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "31. Immunology 2 – Memory, T cells, & Autoimmunity",
-          "url": "https://www.youtube.com/watch?v=SqGmQ6CFYHw",
-          "thumbnail": "https://i.ytimg.com/vi/SqGmQ6CFYHw/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "32. Infectious Disease, Viruses, and Bacteria",
-          "url": "https://www.youtube.com/watch?v=7gLcuMtM_HY",
-          "thumbnail": "https://i.ytimg.com/vi/7gLcuMtM_HY/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "33. Bacteria and Antibiotic Resistance",
-          "url": "https://www.youtube.com/watch?v=E8BihX2hGss",
-          "thumbnail": "https://i.ytimg.com/vi/E8BihX2hGss/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "34. Viruses and Anti-Viral Resistance",
-          "url": "https://www.youtube.com/watch?v=Ao-r2nsib_Y",
-          "thumbnail": "https://i.ytimg.com/vi/Ao-r2nsib_Y/hqdefault.jpg",
-          "watched": false
-        },
-        {
-          "title": "35. Reproductive Cloning and Embryonic Stem Cells",
-          "url": "https://www.youtube.com/watch?v=_fWt9yHslDo",
-          "thumbnail": "https://i.ytimg.com/vi/_fWt9yHslDo/hqdefault.jpg",
-          "watched": false
         }
       ]
     },
