@@ -66,14 +66,6 @@
       "readPages": 144
     },
     {
-      "title": "Life's Ratchet: How Molecular Machines Extract Order from Chaos",
-      "author": "Peter M. Hoffmann",
-      "url": "https://www.amazon.com/Lifes-Ratchet-Molecular-Machines-published/dp/B00E6T37ME",
-      "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355939158i/16691583.jpg",
-      "totalPages": 288,
-      "readPages": 1
-    },
-    {
       "title": "Molecules: A Very Short Introduction",
       "author": "Philip Ball",
       "url": "https://www.amazon.com/Molecules-Very-Short-Introduction-Introductions-ebook/dp/B003N19DR4",
@@ -96,6 +88,14 @@
       "thumbnail": "https://m.media-amazon.com/images/I/51MMMrKTAKL._SL1158_.jpg",
       "totalPages": 385,
       "readPages": 10
+    },
+    {
+      "title": "Life's Ratchet: How Molecular Machines Extract Order from Chaos",
+      "author": "Peter M. Hoffmann",
+      "url": "https://www.amazon.com/Lifes-Ratchet-Molecular-Machines-published/dp/B00E6T37ME",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355939158i/16691583.jpg",
+      "totalPages": 288,
+      "readPages": 1
     },
     {
       "title": "Power, Sex, Suicide: Mitochondria and the meaning of life",
@@ -566,7 +566,7 @@
           "title": "3. Structures of Amino Acids, Peptides, and Proteins",
           "url": "https://www.youtube.com/watch?v=oOya3cFmAMc",
           "thumbnail": "https://i.ytimg.com/vi/oOya3cFmAMc/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "4. Enzymes & Metabolism",
@@ -782,7 +782,7 @@
           "title": "Amino Acids: 20 Building Blocks of Life",
           "url": "",
           "thumbnail": "https://secureimages.teach12.com/tgc/images/m2/wondrium/courses/9572/9572-L03.jpg",
-          "watched": true
+          "watched": false
         },
         {
           "title": "From Peptide Bonds to Protein Structure",
