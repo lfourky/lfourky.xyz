@@ -66,12 +66,20 @@
       "readPages": 144
     },
     {
+      "title": "Enzymes: A Very Short Introduction",
+      "author": "Paul Engel",
+      "url": "https://www.amazon.com/Enzymes-Very-Short-Introduction-Introductions/dp/019882498X",
+      "thumbnail": "https://m.media-amazon.com/images/I/81dU4qv9YmL._SL1500_.jpg",
+      "totalPages": 192,
+      "readPages": 20
+    },
+    {
       "title": "Molecules: A Very Short Introduction",
       "author": "Philip Ball",
       "url": "https://www.amazon.com/Molecules-Very-Short-Introduction-Introductions-ebook/dp/B003N19DR4",
       "thumbnail": "https://m.media-amazon.com/images/I/91+uEh+O25L._SL1500_.jpg",
       "totalPages": 192,
-      "readPages": 170
+      "readPages": 192
     },
     {
       "title": "Immune: A Journey into the Mysterious System That Keeps You Alive",
@@ -152,14 +160,6 @@
       "url": "https://www.amazon.com/Chemistry-Very-Short-Introduction-Introductions-ebook/dp/B00PQX4ONU",
       "thumbnail": "https://m.media-amazon.com/images/I/91t247LEtIL._SL1500_.jpg",
       "totalPages": 128,
-      "readPages": 0
-    },
-    {
-      "title": "Enzymes: A Very Short Introduction",
-      "author": "Paul Engel",
-      "url": "https://www.amazon.com/Enzymes-Very-Short-Introduction-Introductions/dp/019882498X",
-      "thumbnail": "https://m.media-amazon.com/images/I/81dU4qv9YmL._SL1500_.jpg",
-      "totalPages": 192,
       "readPages": 0
     },
     {
