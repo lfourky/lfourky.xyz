@@ -82,6 +82,14 @@
       "readPages": 160
     },
     {
+      "title": "Chemistry: A Very Short Introduction",
+      "author": "Peter Atkins",
+      "url": "https://www.amazon.com/Chemistry-Very-Short-Introduction-Introductions-ebook/dp/B00PQX4ONU",
+      "thumbnail": "https://m.media-amazon.com/images/I/91t247LEtIL._SL1500_.jpg",
+      "totalPages": 128,
+      "readPages": 128
+    },
+    {
       "title": "Enzymes: A Very Short Introduction",
       "author": "Paul Engel",
       "url": "https://www.amazon.com/Enzymes-Very-Short-Introduction-Introductions/dp/019882498X",
@@ -160,14 +168,6 @@
       "url": "https://www.amazon.com/Biochemistry-Very-Short-Introduction-Introductions-ebook/dp/B094W78SV3",
       "thumbnail": "https://m.media-amazon.com/images/I/91XyxCAtyGS._SL1500_.jpg",
       "totalPages": 160,
-      "readPages": 0
-    },
-    {
-      "title": "Chemistry: A Very Short Introduction",
-      "author": "Peter Atkins",
-      "url": "https://www.amazon.com/Chemistry-Very-Short-Introduction-Introductions-ebook/dp/B00PQX4ONU",
-      "thumbnail": "https://m.media-amazon.com/images/I/91t247LEtIL._SL1500_.jpg",
-      "totalPages": 128,
       "readPages": 0
     },
     {
