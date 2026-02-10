@@ -90,6 +90,14 @@
       "readPages": 128
     },
     {
+      "title": "Life's Ratchet: How Molecular Machines Extract Order from Chaos",
+      "author": "Peter M. Hoffmann",
+      "url": "https://www.amazon.com/Lifes-Ratchet-Molecular-Machines-published/dp/B00E6T37ME",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355939158i/16691583.jpg",
+      "totalPages": 288,
+      "readPages": 110
+    },
+    {
       "title": "Enzymes: A Very Short Introduction",
       "author": "Paul Engel",
       "url": "https://www.amazon.com/Enzymes-Very-Short-Introduction-Introductions/dp/019882498X",
@@ -112,14 +120,6 @@
       "thumbnail": "https://m.media-amazon.com/images/I/51MMMrKTAKL._SL1158_.jpg",
       "totalPages": 385,
       "readPages": 10
-    },
-    {
-      "title": "Life's Ratchet: How Molecular Machines Extract Order from Chaos",
-      "author": "Peter M. Hoffmann",
-      "url": "https://www.amazon.com/Lifes-Ratchet-Molecular-Machines-published/dp/B00E6T37ME",
-      "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355939158i/16691583.jpg",
-      "totalPages": 288,
-      "readPages": 1
     },
     {
       "title": "Power, Sex, Suicide: Mitochondria and the meaning of life",
@@ -214,7 +214,7 @@
           "title": "4. Enzymes & Metabolism",
           "url": "https://www.youtube.com/watch?v=QTdJiG7mV40",
           "thumbnail": "https://i.ytimg.com/vi/QTdJiG7mV40/hqdefault.jpg",
-          "watched": false
+          "watched": true
         },
         {
           "title": "5. Carbohydrates and Glycoproteins",
