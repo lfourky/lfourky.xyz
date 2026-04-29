@@ -95,7 +95,15 @@
       "url": "https://www.amazon.com/Lifes-Ratchet-Molecular-Machines-published/dp/B00E6T37ME",
       "thumbnail": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355939158i/16691583.jpg",
       "totalPages": 288,
-      "readPages": 160
+      "readPages": 288
+    },
+    {
+      "title": "Systems Biology: A Very Short Introduction",
+      "author": "Paul Engel",
+      "url": "https://academic.oup.com/book/28474",
+      "thumbnail": "https://m.media-amazon.com/images/I/81oiL+ZTcgL._SL1500_.jpg",
+      "totalPages": 160,
+      "readPages": 35
     },
     {
       "title": "Enzymes: A Very Short Introduction",
